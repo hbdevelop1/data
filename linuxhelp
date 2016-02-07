@@ -351,6 +351,8 @@ a branch is not available to others unless you push the branch to your remote re
 >git push origin <branch>
 
 
+drop local changes
+git checkout -- <filename>
 
 
 disk
@@ -1005,3 +1007,8 @@ int main(int argc, char *argv[])
     return a.exec();
 }
 
+
+Google Drive on Ubuntu 14.04? [duplicate]
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt-get update
+sudo apt-get install grive
