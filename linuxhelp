@@ -1,0 +1,1007 @@
+﻿TODO
+save gl data 
+save audiomine
+save visa
+
+learn using codelite
+compile wxwidget. it needs a compiler. i installed codelite instead of build-essential
+sudo apt-get install ubuntu-restricted-extras
+how do i know if an app/soft/lib is available in ubuntu store. and which version.
+how to access the firmware ?
+how to boot with the usb stick ?
+how to partition the mounted disk ?
+co
+
+
+Some third party entries in your sources.list were disabled. You can re-enable them after the upgrade with the 'software-properties' tool or your package manager.
+
+muddssarshaikh@hotmail.com
+farhanshah480@gmail.com
+
+10-Set root password after fresh install
+
+hassan@hassan-Aspire-V5-431:~$ sudo usermod root -p password; sudo passwd root;
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully
+
+loging to root
+
+hassan@hassan-Aspire-V5-431:~$ su
+Password: 
+root@hassan-Aspire-V5-431:/home/hassan# ls -a /root
+.  ..  .bashrc  .profile
+root@hassan-Aspire-V5-431:/home/hassan# exit
+exit
+hassan@hassan-Aspire-V5-431:~$ 
+
+
+sudo comes in - it allows authorized users (normally "Administrative" users; for further information please refer to AddUsersHowto) to run certain programs as root without having to know the root password. 
+
+Just remember, when sudo asks for a password, it needs YOUR USER password, and not the root account password. 
+
+50-
+automatic log in of a specific user
+in /etc/lightdm/lightdm.conf
+[SeatDefaults]
+autologin-user=amira
+autologin-user-timeout=0
+---
+sudo mkdir /etc/lightdm/lightdm.conf.d
+sudo nano /etc/lightdm/lightdm.conf.d/50-myconfig.conf
+[SeatDefaults]
+autologin-user=USERNAME
+
+501-my Ubuntu is : 
+hassan@hassan-Aspire-V5-431:~$ lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 15.04
+Release:	15.04
+Codename:	vivid
+---
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 14.04.2 LTS
+Release:	14.04
+Codename:	trusty
+
+51-
+disk usage
+52-
+install win8
+53-
+email for viruses
+
+
+
+virtualbox
+install it
+create system in it
+get an error when click on "Start" button : VirtualBox error: Kernel driver not installed (rc=-1908) ...
+solution:
+install aptitude
+then run the 3 commands:
+sudo aptitude update
+sudo aptitude install dkms
+sudo /etc/init.d/vboxdrv setup
+virtual box can move on
+for advanced uses, sharing of clipboard and drag n drop with linux, install "Guest additions": in the vm window containing windows, select Devices/install guest additions CD, and follow the wizard.
+if this does work, maybe download guest additions CD.iso for the version of VM you have, place the iso in the same directory as the vm installer (they both reside in dowload folder)
+
+usb
+sudo lsblk -o NAME,FSTYPE,SIZE,MOUNTPOINT,LABEL
+sudo fdisk -l
+sudo mount -t vfat /dev/sdb1 /media/external -o uid=1000,gid=1000,utf8,dmask=027,fmask=137
+sudo umount /dev/sdc1
+sudo lshw | less ;to get all information about the computer: name, model, cpu, cache, ...
+sudo lsusb ;will tell you what USB devices Linux detects.
+
+
+dev opengl download install app
+>sudo apt-get install freeglut3 freeglut3-dev libglew1.5 libglew1.5-dev libglu1-mesa libglu1-mesa-dev libgl1-mesa-glx libgl1-mesa-dev
+download nehe linux/lesson5
+>make lesson5
+get error : /usr/bin/ld: cannot find -lXi
+>sudo aptitude install libxi-dev
+>make lesson5
+get error : /usr/bin/ld: cannot find -lXmu 
+>sudo apt-get install libxmu-dev libxmu-headers
+
+firewall
+to active the firewall and enable it on system startup, enable UFW: sudo ufw enable
+to block incoming connections by default: sudo ufw default deny
+to check the status of UFW: sudo ufw status
+
+install app/soft
+-----------
+dpkg is the backend to commands like apt-get and aptitude, which in turn are the backend for GUI install apps like the Software Center and Synaptic.
+
+install a .deb : sudo dpkg -i skype-ubuntu-precise_4.3.0.37-1_i386.deb
+
+
+get the version of libgtk :
+dpkg -l libgtk[0-9]*
+
+install eboard
+./configure
+sudo apt-get install pkg-config
+sudo apt-get install libgtk2.0-dev
+
+sudo apt-get install tcl8.5-dev tk8.5-dev
+  libtcl8.5 libtk8.5 libxss-dev tcl8.5 tcl8.5-dev tk8.5 tk8.5-dev x11proto-scrnsaver-dev
+
+The program 'g++' is currently not installed. You can install it by typing:
+sudo apt-get install g++
+
+Install g++ (for Qt)
+sudo apt-get install build-essential
+
+Install Qt
+https://wiki.qt.io/Install_Qt_5_on_Ubuntu
+
+installing codelite
+sudo apt-key adv --fetch-keys http://repos.codelite.org/CodeLite.asc
+sudo apt-add-repository 'deb http://repos.codelite.org/ubuntu/ vivid universe'
+sudo apt-get update
+sudo apt-get install codelite wxcrafter
+
+120-
+to get a list of files related to an app/lib
+>locate libXmu
+
+125-
+sudo add-apt-repository ppa:maco.m/ruby
+sudo apt-get update
+sudo apt-get install rubygems
+
+1) add-apt-repository adds a PPA to your list of sources, so that Ubuntu knows to look for updates from that PPA as well as from the official Ubuntu sources. Usually this is used to allow developers to provide updates more quickly than those in the official Ubuntu repositories.
+
+2) apt-get update tells apt-get to update its database of what packages can be installed and where to install them from. In this case, apt-get will see your newly-added PPA and discover that ppa:maco.m/ruby has the newest version of rubygems that it knows about, so it will make a note to install rubygems from the PPA next time someone asks to install it.
+
+3) apt-get install causes apt-get to find the package in its database and download and install the indicated file. In this case, it will find the rubygems package, download it from ppa:maco.m/ruby, and install it.
+
+the format ppa:a/b will expand to https://launchpad.net/~a/+archive/b, where you can view the files and download them individually. In your case, that would be https://launchpad.net/~maco.m/+archive/ruby.
+
+126-Java
+This will install Oracle JVM and will update it when needed.
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-jdk7-installer
+
+But if you want to install JVM manually, you should use these commands:
+>tar -xzf jre-7u51-linux-i586.tar.gz
+>sudo mv jre1.7.0_51/ /usr/lib/jvm/jre1.7.0_51
+Then run
+>sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jre1.7.0_51/jre/bin/java
+and
+$ sudo update-alternatives --config java
+There are 3 choices for the alternative java (providing /usr/bin/java).
+
+  Selection    Path                                       Priority   Status
+--------------------------------------------------------------------------------
+* 0            /usr/lib/jvm/java-6-openjdk/jre/bin/java    1061      auto mode
+  1            /usr/lib/jvm/ia32-java-6-sun/jre/bin/java   63        manual mode
+  2            /usr/lib/jvm/java-6-openjdk/jre/bin/java    1061      manual mode
+  3            /usr/lib/jvm/java-6-sun/jre/bin/java        63        manual mode
+  4            /usr/lib/jvm/jre1.7.0_51/jre/bin/java       4         manual mode  
+
+Press enter to keep the current choice[*], or type selection number:
+
+
+The wx3.0.2 packages are signed with the CodeLite public key so you should tell apt about this by doing as superuser
+>apt-key adv --fetch-keys http://repos.codelite.org/CodeLite.asc
+
+ISSUE
+Data files for some packages could not be downloaded
+The following packages requested additional data downloads after package installation, but the data could not be downloaded or could not be processed.
+ttf-mscorefonts-installer
+This is a permanent failure that leaves these packages unusable on your system.  You may need to fix your Internet connection, then remove and reinstall the packages to fix this problem.
+SOL
+$ sudo apt-get install --reinstall ttf-mscorefonts-installer 
+
+
+hassan@hassan-Aspire-V5-431:~$ sudo apt-get install libwxbase3.0-0-unofficial libwxbase3.0-dev libwxgtk3.0-0-unofficial libwxgtk3.0-dev wx3.0-headers wx-common libwxbase3.0-dbg libwxgtk3.0-dbg wx3.0-i18n wx3.0-examples wx3.0-doc
+
+.run file
+chmod +x filename.run and press Enter.
+Now type ./filename.run and press Enter, and the installer will run.
+
+
+sublime
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get update
+sudo apt-get install sublime-text
+
+notepadqq
+sudo add-apt-repository ppa:notepadqq-team/notepadqq
+sudo apt-get update
+sudo apt-get install notepadqq
+
+wine
+----
+$ sudo add-apt-repository ppa:ubuntu-wine/ppa
+$ sudo apt-get update
+$ sudo apt-get install wine1.7 winetricks
+
+
+list pkg content
+----------------
+>dpkg-query -L libstdc++-4.8-dev
+>apt-file list <package_name>
+>dpkg -L libstdc++-4.8-dev
+
+what installed package a file belongs to
+------------------------------
+>dpkg -S /usr/include/c++/4.8/iostream
+libstdc++-4.8-dev:amd64: /usr/include/c++/4.8/iostream
+
+
+content of a .deb file
+----------------------
+dpkg-query -c <package_name.deb>
+
+
+-----------------
+hassan@hassan-Aspire-V5-431:~$ lsusb -v -t
+/:  Bus 04.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/4p, 5000M
+/:  Bus 03.Port 1: Dev 1, Class=root_hub, Driver=xhci_hcd/4p, 480M
+/:  Bus 02.Port 1: Dev 1, Class=root_hub, Driver=ehci-pci/2p, 480M
+    |__ Port 1: Dev 2, If 0, Class=Hub, Driver=hub/4p, 480M
+        |__ Port 4: Dev 3, If 0, Class=Video, Driver=uvcvideo, 480M
+        |__ Port 4: Dev 3, If 1, Class=Video, Driver=uvcvideo, 480M
+/:  Bus 01.Port 1: Dev 1, Class=root_hub, Driver=ehci-pci/2p, 480M
+    |__ Port 1: Dev 2, If 0, Class=Hub, Driver=hub/4p, 480M
+        |__ Port 4: Dev 5, If 0, Class=Wireless, Driver=btusb, 12M
+        |__ Port 4: Dev 5, If 1, Class=Wireless, Driver=btusb, 12M
+
+hassan@hassan-Aspire-V5-431:~$ sudo fdisk -l
+[sudo] password for hassan: 
+
+Disk /dev/sda: 500.1 GB, 500107862016 bytes
+255 heads, 63 sectors/track, 60801 cylinders, total 976773168 sectors
+Units = sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 4096 bytes
+I/O size (minimum/optimal): 4096 bytes / 4096 bytes
+Disk identifier: 0x3da1b1d8
+
+   Device Boot      Start         End      Blocks   Id  System
+/dev/sda1   *        2048      718847      358400    7  HPFS/NTFS/exFAT
+/dev/sda2          718848   771971071   385626112    7  HPFS/NTFS/exFAT
+/dev/sda3       771973118   976771071   102398977    5  Extended
+Partition 3 does not start on physical sector boundary.
+/dev/sda5       771973120   968802303    98414592   83  Linux
+/dev/sda6       968804352   976771071     3983360   82  Linux swap / Solaris
+hassan@hassan-Aspire-V5-431:~$ 
+
+Environment variable
+--------------------
+To check the PKG_CONFIG_PATH value use the command echo $PKG_CONFIG_PATH
+To set the PKG_CONFIG_PATH value use export PKG_CONFIG_PATH=/usr/lib/pkgconfig or export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
+
+wxWidgets
+---------
+The installation of wxWidgets is finished.  On certain  platforms (e.g. Linux) you'll now have to run ldconfig  if you installed a shared library and also modify the
+ LD_LIBRARY_PATH (or equivalent) environment variable.
+
+tasks
+1-load xml file in a tree
+	use tinyxml or similar
+	use wxWidget tree
+		run the tree sample
+2-interpret the rtf text in a Rich Editor instances
+3-comparison in two steps, format-stripped and then format-present
+3.1-export in xml pure text
+when transfering text from a src to dst, which format will that be on ? nuteral format.
+OR
+3.2-comparison development
+compare the two trees nodes
+then text on nodes
+
+
+grep
+----
+find text in all files and subfolders
+grep -r "QtCore" .
+
+.bashrc/promt/PS1/color
+$ echo -e "${bakblu}test"
+$ echo -e "\\033[48;5;95;38;5;214mhello world\\033[0m"
+
+
+git
+---
+
+Create a new repository on the command line
+
+touch README.md
+git init
+git add README.md
+git config --global user.name "hassan" ;necessary for git to know to whom to credit commits and future projects.
+git config --global user.email "hassan17517@gmail.com" ;necessary for git to know to whom to credit commits and future projects.
+git commit -m "first commit"
+git remote add origin https://github.com/hbdevelop1/the3stones.git
+git push -u origin master
+
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/hbdevelop1/camera.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+>git pull origin master
+>git push -u origin master
+
+To https://github.com/hbdevelop1/camera.git
+   21a69d0..01a6f85  master -> master
+Branch master set up to track remote branch master from origin.
+
+>git config --global credential.helper 'cache --timeout=3600'
+to make github not to ask for username and password for each push. it will remember this info for 1 hour
+
+create branch
+>git checkout -b new_feature_branch
+switch back to master
+>git checkout master
+and delete the branch again
+>git branch -d feature_x
+a branch is not available to others unless you push the branch to your remote repository
+>git push origin <branch>
+
+
+
+
+disk
+----
+~$ sudo lshw -C disk
+[sudo] password for hassan: 
+  *-disk                  
+       description: ATA Disk
+       product: Hitachi HTS54505
+       vendor: Hitachi
+       physical id: 0.0.0
+       bus info: scsi@0:0.0.0
+       logical name: /dev/sda
+       version: A920
+       serial: TEA55C49GYPK3R
+       size: 465GiB (500GB)
+       capabilities: partitioned partitioned:dos
+       configuration: ansiversion=5 sectorsize=4096 signature=3da1b1d8
+  *-cdrom
+       description: DVD-RAM writer
+       product: DVD-RAM UJ8C2Q
+       vendor: MATSHITA
+       physical id: 0.0.0
+       bus info: scsi@4:0.0.0
+       logical name: /dev/cdrom
+       logical name: /dev/sr0
+       version: 1.00
+       capabilities: removable audio cd-r cd-rw dvd dvd-r dvd-ram
+       configuration: ansiversion=5 status=nodisc
+
+sudo
+----
+Always use gksu or gksudo for graphical applications like gparted and sudo for command line applications, like apt-get.
+
+
+----QT
+ QApplication object  manages application-wide resources and is necessary to run any Qt program that uses Qt Widgets.
+For GUI applications that do not use Qt Widgets, you can use QGuiApplication instead.
+
+QApplication a(argc, argv);
+a.exec();
+makes the QApplication enter its event loop. 
+
+notepad.ui : user interface definition in XML format, 
+
+A QObject adds several abilities to a normal C++ class:
+the class name and slot names can be queried at run-time. 
+It is also possible to query a slot's parameter types and invoke it.
+
+DVD
+sudo apt-get install ubuntu-restricted-extras
+then run:
+sudo /usr/share/doc/libdvdread4/install-css.sh
+to install libdvdcss2 library, that is not included in offical repos due to legal reasons. Now all DVD movies should play like a charm.
+
+
+phone. disable MTP
+-----
+	unplug the phone from pc
+    Bring up Settings.
+    Click More settings… (under Wireless and network).
+    Then select USB utilities ~ Set USB cable connection mode.
+    Select Connect storage to PC then.
+    Connect USB cable from phone to PC.
+    Select Turn on USB storage.
+    That’s all.
+
+language
+--------
+so there is only so low you can go before stability is compromised. 
+	there only so much you can do.
+ARGUMENT
+This is somewhat similar to a rule like "don't use pointers, because you might get a memory leak" --- it's just too defensive. 
+academic rules written by teachers for their students somehow doesn't seem to bother me that much.
+	=i don't care about them
+It's like with the Pirate Codebook - it's more a list of guidelines than actual rules. 
+high volume of calls results in longer (waiting) time
+pull out the bombing in Bali
+	bring up the topic
+Hold on
+	stop there
+	leave it there
+Looking for keen volunteers who have specific maintenance skills and can get on with a task unsupervised, whether big or small. 
+
+gde
+---
+doing:
+show the relevant data from the gde produced xml file. project 
+
+rewritting _guide_map_file. this function is using windows' memory mapping technique to load the gde file.
+i need to rewrite it to be multiplatform.
+
+QT XMLTreeModel
+------
+QDomNode gives you a node in the tree structure. QDomNode will give u a particular node, its siblings, no of children etc....
+QDomElement on the other hand does not have information about the neighbors. It knows only about the given node, its attributes, tags and the text.
+
+QStandardItemModel can be used as a repository for standard Qt data types.
+QStandardItemModel can be used to provide data in any view that supports that interface (such as QListView, QTableView and QTreeView, and your own custom views)
+QStandardItemModel provides a classic item-based approach to working with the model. The items in a QStandardItemModel are provided by QStandardItem.
+When you want a list or tree, you typically create an empty QStandardItemModel and use appendRow() to add items to the model, and item() to access an item.
+  QTreeView *tree = new QTreeView();
+  QStandardItemModel model;
+... fill in model
+  tree->setModel( &model );
+
+simpletreemodel is using class TreeModel : public QAbstractItemModel
+to show the tree
+TreeModel points to a root (of type TreeItem)
+TreeItem points to a list of children
+the core of simpletreemodel is :
+    TreeModel model(file.readAll());
+    QTreeView view;
+    view.setModel(&model);
+    view.show();
+still to do : show how children are loaded and items relationship is done.
+
+
+system/sound
+------------
+disable: taskbar/right click on sound icon/sound preferences/mute
+
+system/application
+------------------
+taskbar/system/preferences/personal/startup applications
+
+VLC BLU-ray mkv
+--------------
+from : http://askubuntu.com/questions/565516/can-linux-play-blu-rays
+MakeMKV is an application that decodes Blu-ray disks and saves them to DRM-free files
+it is free to use whilst in beta but requires entering a new temporary activation code every 30 days, found here: http://www.makemkv.com/forum2/viewtopic.php?f=5&t=1053
+The marvellous thing about MakeMKV however is that it can "emulate" libaacs and libdplus – meaning any calls from apps that link to those libraries expecting the default open source decoder will instead get passed through MakeMKV's closed-source decoder – hence any video playback software which uses those libraries will automatically use MakeMKV's decoder and be able to play the latest titles.
+
+To install and set up MakeMKV:
+Step 1: Install it
+(I built from source so haven't actually tried these packages myself)
+sudo add-apt-repository ppa:heyarje/makemkv-beta
+sudo apt-get update
+sudo apt-get install makemkv-bin makemkv-oss
+Step 2: Uninstall the open-source libaacs
+sudo apt-get remove libaacs0
+Step 3: Symlink MakeMKV's libmmbd to emulate libaacs and libdplus
+(/usr/lib might not be the correct directory for you – do a search for "libmmbd.so")
+cd /usr/lib
+sudo ln -s libmmbd.so.0 libaacs.so.0
+sudo ln -s libmmbd.so.0 libbdplus.so.0
+
+Reboot
+------
+sudo shutdown -r now
+
+
+for f in /media/hassan4/20140222_170042/*; do for i in /home/amira/Pictures/Camera/*; do
+ echo "deleting $i" && rm "$i"; done; done;
+for f in /media/hassan4/20140222_170042/*; sudo do for i in /home/amira/Pictures/Camera/*; sudo do cmp -s "$f" "$i" && echo "Files $f and $i are identical"; done; done;
+
+for each file in the disk
+	if found in a list of directories/currentdirectory
+		print "rm file in directory"
+		set currentdirectory
+for f in /media/hassan4/disk/*;do for i in currentdirectory || for i in /media/harddrive/photo directory list; do cmp -s "$f" "$i" && echo "Files $f and $i are identical"; done; done;
+
+PERMISSION,USER,GROUP
++Grant read access to a directory to all members of your group:
+chmod g+rx directory-name
+Note that "execute" permission is required in order to read a directory. 
++Grant read permissions to everyone on the system to a file which you own so that everyone may read it: (u)ser, (g)roup and (o)ther.
+chmod ugo+r file-name
++Grant read permissions on a directory to everyone on the system:
+chmod ugo+rx directory-name
+
+USER
+change simple user to sudo user
+>usermod -aG sudo ayman
+logout and login
+>groups
+'sudo' should be in the output text
+
+
+PARTITION
+-4 primary partitions in any disk
+-extended partition can contain any number of partitions (logical partitions)
+-Only one extended partition may be created on a hard drive.
+the extended partition can co-existing with a max of 3 primary partitions
+-An Extended partition cannot be formatted with a filesystem, such as ext3, FAT, or NTFS, nor can it directly hold data. That is the function of the Logical Drives which are created within it.
+-we can have one Extended partition encompassing the entire hard drive,
+
+hassan4@hassan-Aspire-V5-431:~$ grub-install -V
+grub-install (GRUB) 2.02~beta2-29ubuntu0.2
+
+
+
+
+
+
+WIFI
+systemctl stop network-manager
+sudo rm /var/lib/NetworkManager/NetworkManager.state
+systemctl start network-manager
+
+sudo service network-manager stop
+sudo rm /var/lib/NetworkManager/NetworkManager.state
+sudo service network-manager start
+
+sudo apt-get install indicator-applet indicator-network 
+
+To get the other indicators, run:
+sudo apt-get install indicator-sound-gtk2 indicator-application-gtk2 indicator-datetime-gtk2 indicator-session-gtk2 indicator-messages-gtk2
+
+
+
+
+MONO
+----
+sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+echo "deb http://download.mono-project.com/repo/debian wheezy main" | sudo tee /etc/apt/sources.list.d/mono-xamarin.list
+sudo apt-get update
+
+sudo apt-get install mono-devel 
+sudo apt-get install mono-complete 
+sudo apt-get install referenceassemblies-pcl 
+sudo apt-get install ca-certificates-mono
+sudo apt-get install mono-xsp4 ;when asp.net is to be used
+
+apt-add-repository ppa:ehoover/compholio
+apt-add-repository ppa:mqchael/pipelight
+apt-get update
+sudo apt-get install pipelight
+
+rm -rf ~/.wine-pipelight/
+pipelight-plugin --system-check
+
+
+.NET
+any language compiler that targets .NET must emit code in IL, intermediate language, rather than native processor code.
+	Programming languages that target .NET emit what we call managed code. As opposed to traditional compilers, the emitted code is not native to the processor that will execute it.
+The Common Language Runtime, or CLR, is the .NET runtime environment that loads and manages our .NET programs and provides them with runtime services. We'll discuss the CLR in much detail in this module.
+The Framework Class Library, or FCL, provides us with the essential building blocks we need in order to build our programs.
+	In order to develop our programs, we need some building blocks - we can't start writing everything from scratch every time.
+	The FCL is usable by all programming languages, since the vast majority of it is CLS compliant.
+The Common Type System (CTS)
+The CTS specified how types in .NET are defined. The CLS is a subset of the CTS that must be supported by any .NET language.
+
+    Defines how types are declared, used and managed
+        Possible types (class, interface, etc)
+        Possible type content (methods, fields, etc)
+        Visibility (public, private, etc)
+        More ...
+    Most languages cannot support all features of the CTS
+    Common Language Specification (CLS)
+        Defines a subset of the CTS that must be followed by any language
+        Allows cross-language integration
+A redistributable package must be installed at the target machine, so the .NET runtime is present and able to execute .NET applications.
+
+every type in .NET is either a value type or a reference type, derives directly or indirectly from System.Object
+Multiple inheritance is not supported in .NET. But it can implement multiple interfaces.
+the .NET type system is type safety. The CLR makes sure that we don't do anything illegal that may compromise the integrity of the program. 90
+C# provides aliasing
+    C#: int
+    FCL: System.Int32
+    IL: int32
+
+    Value types
+        Allocated in the stack (in most cases)
+        Copied on assignment
+        Have no size or memory management overhead
+        Examples: struct, enum, most primitives (i.e. int)
+    Reference types
+        Allocated on the heap
+        Only reference copied on assignment
+        Have size overhead of 8 to 16 bytes (depending on the OS)
+        Subject to garbage collection
+        Examples: class, interface
+
+.NET Constructor
+class MyRefType
+{
+    public int Data;
+}
+static void Main(string[] agrs)
+{
+MyRefType r1 = new MyRefType();  //default constructor. 
+Q-What if the constructor needs args ?
+
+    System.Object (object in C#) is the root of all types, and classes that don't explicitly derive from anything else.
+    It is a concrete (non-abstract) class
+        Can be instantiated directly
+        Does not require any overrides from its derived classes
+    It defines method but contains no fields (data members)
+    Virtual methods:
+        ToString returns string representation
+        Equals returns whether two objects are equal. needs overiding to do more logical equlity.
+        GetHashCode returns a hash code for the object. especially useful in collection and the object is to be the key.
+        Finalize called as part of garbage collection, cannot be used directly from C#
+    Non virtual methods:
+        GetType provides information about the type of the object
+        MemberwiseClone (protected) creates a shallow copy of an object. Q-in the heap ?
+    Static methods:
+        ReferenceEquals checks whether two references refer to the same object
+        Equals checks whether two object are equal
+
+Conversion 1: built-in types
+int num1 = 10;
+short num2 = (short)num1; // possible loss of data -> explicit conversion needed
+
+short num2 = 10;
+int num1 = num2; //no loss of data possible -> no need for explicit conversion
+
+Conversion 2 complexe: class "Convert" is offered also, for more advanced conversion options that C# doesn't provide directly
+conversion 3 operators.Module 7
+conversion 4. boxing
+conversion vs casting : When the required conversion isn't supported, the compiler attempts to perform casting instead.
+Since up-casting is safe, we can do it implicitly:
+Triangle t = new Triangle();
+Shape s = t;
+down-casting requires a explicit cast: 
+Shape s = new Triangle();
+Triangle t = (Shape)s;
+but the CLR verifies at runtime that the cast is indeed valid. If it isn't it throws an InvalidCastException.
+
+01Triangle t = new Triangle();
+02
+03// compile time error
+04Rectangle r = (Rectangle)t;
+05
+06object o = t;
+07
+08// runtime error:
+09// InvalidCastException
+10Rectangle r2 = (Rectangle)o;
+
+
+IS
+01Shape s = new Triangle();
+02
+03// true
+04bool b1 = s is Triangle;
+05
+06// true
+07bool b2 = s is Shape;
+08
+09// false
+10bool b3 = s is Rectangle;
+11
+12// true (by definition)
+13bool b4 = s is object;
+
+01if (s is Rectangle)  //CLR does the test here
+02{
+03    Rectangle r = (Rectangle)s; //CLR checks if this is legal
+04    // use r
+05}
+
+AS
+as is more efficient. as casts if possible. The as operator combines the testing and the casting into a single operation.
+01Rectangle r = s as Rectangle;
+02if (r != null)
+03{
+04    ...
+05}
+
+
+
+
+type safety : can't assign a small object to a bigger one. the latter would access wrong data in memory.
+class SmallType
+{
+    public int Field1;
+}
+
+class LargeType
+{
+    public int Field1;
+    public int Field2;
+}
+
+...
+
+SmallType s = new SmallType();
+
+// won't compile:
+LargeType l = (LargeType)s;
+
+
+BOXING = a value type converted to object
+BOXING - 1 : from a built in type
+    Every type is either a reference type or a value type
+    object is a reference type - refers to an object in the heap
+    int is a value type - it is allocated in the stack
+    Every type, including int derives from object
+    Up casting (converting up the inheritance hierarchy) is legal by definition
+    What happens when we cast from int to object?
+    An object must refer to the heap, but the int is in the stack!
+    The solution is ... BOXING
+
+int num1 = 20;
+// boxing:
+object o = num1;
+// unboxing:
+int num2 = (int)o;
+
+num2 is different from num1 //hb: risk of infinite creation of reference type and value type variables
+
+BOXING - 2 : from a struct
+	MyValType v1 = new MyValType();
+    v1.Data = 1;
+    Console.WriteLine("v1 " + v1.ToString());
+    // boxing
+    object o1 = v1;
+
+
+BOXING - advanced - restriction
+There is some restriction: Unboxing and data conversions are not allowed in a single operation. 
+int num1 = 20;
+object o = num1;
+short num2 = (short)o; // runtime exception: throws an InvalidCastException. A boxed int must be unboxed as int.
+
+data conversions should happen in a different instruction.
+
+short num2 = (short)(int)o; // Once unboxed, the int can be converted to short
+
+
+BOXING - advanced - performance
+-boxed values might stay in the heap for a long time
+-garbage collector must interven (background code to clean the heap is needed)
+
+
+
+
+taken off
+keep u in mind
+come up
+getting back to work
+
+
+
+Can you confirm that you have either visited or contacted via phone or email the Parnell branch in the last week? *
+What account type or service did this relate to? 3. Debit/Eftpos Card
+Were you able to complete all your requirements in the first interaction? * Yes/No - It took more than one contact/No - It's still unresolved
+Thinking about this recent interaction with ANZ, how would you rate your overall experience?  Please rate your experience on a scale of 0-10, where 0=Poor and 10=Excellent: * 
+Was there anything about your experience that ANZ did that impressed you or exceeded your expectations?
+How would you rate the overall experience with Stephanie on 28 September? *On a scale of 0-10, where  0=Poor and 10=Execellent:
+How much do you agree or disagree with each statement about your experience with Stephanie? *On a scale of 0-10, where 0=Strongly Disagree and 10=Strongly Agree:
+Made me feel welcomed on initial contact * 												
+Paid attention to what I said * 												
+Understood me and proactively offered solutions I found valuable * 												
+Did what they said they would do *
+Thinking about the person you dealt with, please tell us what they did that impressed you or exceeded your expectations
+Thinking about the account type or service this interaction related to, what could be done to improve it or make it easier to use?
+Thank you for taking the time to give us your feedback.
+You have now completed the survey and can close your browser.
+
+
+18009591953
+4/9 
+26 77 
+
+
+
+win8 acer linux
+---------------
+
+usb stick is not read, but win8.1 is
+
+
+----------------
+goal install windows
+context:bios+GPT
+planing:
+  convert disk to mbr, or just a partition
+  install windows on the mbr partition
+
+go to uefi and gpt
+  but will the usb key be read.
+
+goal ultimate; have win8
+goal:
+  get the usb be read first.
+
+try to boot from win8.1 usb   
+
+
+
+
+important questions
+-------------------
+can an gpt disk be converted to mbr one ? and vice versa ? 207
+can windows turn a legacy bios to an uefi one ? 208
+how to turn an mbr to gpt ? an legacy bios to uefi ? 206
+can diskpart convert from gpt to mbr ? 
+
+
+you probably have a GPT partition which is what windows 8 generally uses for the UEFI rather than an MBR
+
+options:
+1-unlocking the hd
+use linux tools to unlock the hd 
+use bcdboot to unlock the hd
+use hens' disk
+
+0
+2-update the uefi firmware (but it is only done through windows8)
+
+3-convert (reformat) hard drive from GPT to MBR. see 203
+
+linux
+_intall linux on uefi http://www.rodsbooks.com/linux-uefi/
+
+trials - 
+1
+Bootrec /fixMBR
+bootrec /fixBoot
+bootrec /rebuildBCD
+successfully scanned windows instqllqtions
+Add installation to boot list ? yes
+the requested system device cannot be found
+
+2-
+x:\windows\system32>bcdboot c:\windows /s c:
+Boot files successfully created
+
+XHQ8N-C3MCJ-RQXB6-WCHYG-C9WKB
+
+
+You can also enter BIOS/UEFI and set your disk controller mode (aka SATA mode, RAID mode) to Standard (aka Standard IDE or SATA, Legacy) instead of AHCI or RAID. 
+how to do this without bios/uefi
+
+203
+If you formatted or converted your system drive from MBR partitioning to GPT, you must ensure the EFI boot options state "UEFI only".
+
+204
+In old BIOS mode, Windows 8 will not detect your GPT hard drives or partitions correctly. No booting, no Refresh Your PC or Reset Your PC until "UEFI only" is set.
+Windows 8 requires UEFI for GPT drives. This is a must and there is no workaround. 
+
+If you do not have the Windows 8 installation DVD (e.g. Windows 8 came pre-installed), grab the 90-day Windows 8 Enterprise evaluation DVD from MSDN (you need to sign in with your Windows Live ID).
+
+http://answers.microsoft.com/en-us/windows/forum/windows_8-system/windows-crash-refresh-hard-drive-locked-unlock/a6bb04ff-5dba-4e10-a849-644cd0851bc6?auth=1
+203 204
+
+
+206
+https://technet.microsoft.com/en-us/library/cc725671.aspx
+using diskpart, can go to GPT
+
+
+207
+Yes, but only if the disk contains no partitions or volumes.
+https://msdn.microsoft.com/en-us/library/windows/hardware/dn640535%28v=vs.85%29.aspx#gpt_faq_what_dynamic_disk
+
+
+208
+Change a Master Boot Record Disk into a GUID Partition Table Disk
+https://technet.microsoft.com/library/cc725671.aspx
+Change a GUID Partition Table Disk into a Master Boot Record Disk
+https://technet.microsoft.com/library/cc725797.aspx
+
+http://social.technet.microsoft.com/wiki/contents/articles/14286.converting-windows-bios-installation-to-uefi.aspx
+
+
+GET BIOS information from review web sites, youtube,
+get the latest bios from other web sites
+
+
+This is your system trying to boot from a network.
+The most common reason for this is that it's skipping your hard drive because your hard drive is no longer bootable.
+
+Please try one of the free hard drive tests here:  http://www.carrona.org/hddiag.html
+
+
+where are drivers and manuals ?
+
+
+windows 7 in bios uefi Acer Aspire V5
+https://www.youtube.com/watch?v=9fy5ahvb_XQ
+
+see windows 7 installation
+see how to open for hard drive of v5-431
+see how to place a hd in a case. Which case is needed.
+see how to update the bios
+let people know my problem. 1)can't access legacy bios. 2)how to get windows8 to boot again
+
+
+ 14
+down vote
+accepted
+	
+
+http://askubuntu.com/questions/217571/cant-format-delete-locked-partition-from-gparted
+If it's an LVM partition, you will need to deactivate it using the command lvremove which will remove the lock.
+Only then can you delete the partition using gparted.
+Use lvscan to view the volume.
+Use lvremove to remove it.
+Check man pages man lvscan and man lvremove for details.
+
+C++
+----
+
+#ifdef ver_1
+void * operator new(size_t size)
+{
+    void * p = ::operator new(size); recursive call. so my operator new should have a signature different from the system one which accepts only one arg. hence ver_2
+    printf("allocating %ul starting from 0x%08X", size, (unsigned long)p);
+    return p;
+}
+
+    int * p = new int[20];
+ver_1
+
+#ifdef ver_2
+void * operator new(size_t size, const char* file, int line)
+{
+    void * p = ::operator new(size);
+    printf("allocating %ul, starting from 0x%08X (in %s,%d)", size, (unsigned long)p, file, line);
+    return p;
+}
+
+    int * p = new (__FILE__, __LINE__) int[20];
+
+error: no matching function for call to 'operator new [](sizetype, const char [16], int)'
+     int * p = new (__FILE__, __LINE__) int[20];
+                                              ^
+#endif ver_2
+
+#ifdef ver_21
+void * operator new(size_t size, const char* file, int line)
+{
+    void * p = ::operator new(size);
+    printf("allocating %ul, starting from 0x%08X (in %s,%d)", size, (unsigned long)p, file, line);
+    return p;
+}
+
+void * operator new[](size_t size, const char* file, int line)
+{
+    void * p = ::operator new(size);
+    printf("allocating %ul, starting from 0x%08X (in %s,%d)", size, (unsigned long)p, file, line);
+    return p;
+}
+
+    int * p = new (__FILE__, __LINE__) int[20];
+
+                                              ^
+#endif ver_21
+
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+    int * p = new (__FILE__, __LINE__) int[20];
+
+    delete[] p;
+
+    return a.exec();
+}
+
