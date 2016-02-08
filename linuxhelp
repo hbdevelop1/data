@@ -351,8 +351,33 @@ a branch is not available to others unless you push the branch to your remote re
 >git push origin <branch>
 
 
-drop local changes
-git checkout -- <filename>
+   32  git init
+   33  git config --global user.name "hbdevelop1"
+   34  git config --global user.email "https://hbdevelop1@github.com"
+   35  git config --list
+   36  git remote add origin https://github.com/hbdevelop1/data.git
+   37  git pull origin master
+to pull whatever is in origin
+
+   44  git checkout -- linuxhelp
+to drop local changes in linuxhelp
+
+   51  git checkout -b branch1
+create the main branch
+   52  git push origin branch1
+   53  git push -u origin branch1
+one of these to push the newly created branch into the repo
+
+   57  git add linuxhelp 
+   60  git commit -m "git kernel usage"
+   61  git push -u origin branch1
+push the new version of linuxhelp into the server
+
+linuxhelp can now be pulled in another computer via
+git push -u origin branch1
+
+
+
 
 
 disk
