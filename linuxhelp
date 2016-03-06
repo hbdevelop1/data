@@ -351,7 +351,55 @@ a branch is not available to others unless you push the branch to your remote re
 >git push origin <branch>
 
 
+   32  git init
+   33  git config --global user.name "hbdevelop1"
+   34  git config --global user.email "https://hbdevelop1@github.com"
+   35  git config --list
+   36  git remote add origin https://github.com/hbdevelop1/data.git
+   37  git pull origin master
+to pull whatever is in origin
 
+   44  git checkout -- linuxhelp
+to drop local changes in linuxhelp
+
+   51  git checkout -b branch1
+create the main branch
+   52  git push origin branch1
+   53  git push -u origin branch1
+one of these to push the newly created branch into the repo
+
+   57  git add linuxhelp 
+   60  git commit -m "git kernel usage"
+   61  git push -u origin branch1
+push the new version of linuxhelp into the server
+
+linuxhelp can now be pulled in another computer via
+git push -u origin branch1
+
+444-
+I am lost. i wanted to push a new version of my file, but I don't know which remote to push to:
+>git remote show origin
+* distante origin
+  URL de rapatriement : https://github.com/hbdevelop1/data.git
+  URL push : https://github.com/hbdevelop1/data.git
+  Branche HEAD : master
+  Branches distantes :
+    branch1 suivi
+    master  suivi
+  Branche locale configurée pour 'git pull' :
+    branch1 fusionne avec la distante branch1
+  Références locales configurées pour 'git push' :
+    branch1 pousse vers branch1 (à jour)
+    master  pousse vers master  (peut être mis à jour en avance rapide)
+
+445-
+undo git add:
+>git reset <file>
+
+
+446-
+list all branches 
+>git branch -a
 
 disk
 ----
@@ -521,6 +569,8 @@ Note that "execute" permission is required in order to read a directory.
 chmod ugo+r file-name
 +Grant read permissions on a directory to everyone on the system:
 chmod ugo+rx directory-name
++Grant read permissions only to all files to everyone on the system:
+chmod ugo+r-wx *
 
 USER
 change simple user to sudo user
@@ -937,6 +987,19 @@ let people know my problem. 1)can't access legacy bios. 2)how to get windows8 to
 down vote
 accepted
 	
+	
+
+Visual Studio release
+option1
+post build event:
+copy $(TargetPath) EXE
+copy libs\glut\glut32.dll EXE
+
+option2
+in vcxproj
+<OutDir>$(SolutionDir)EXE\</OutDir>	
+<PostBuildEvent><Command>copy libs\glut\glut32.dll EXE</Command></PostBuildEvent>	
+		
 
 http://askubuntu.com/questions/217571/cant-format-delete-locked-partition-from-gparted
 If it's an LVM partition, you will need to deactivate it using the command lvremove which will remove the lock.
@@ -1005,3 +1068,8 @@ int main(int argc, char *argv[])
     return a.exec();
 }
 
+
+Google Drive on Ubuntu 14.04? [duplicate]
+sudo add-apt-repository ppa:nilarimogard/webupd8
+sudo apt-get update
+sudo apt-get install grive
