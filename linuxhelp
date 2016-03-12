@@ -401,6 +401,13 @@ undo git add:
 list all branches 
 >git branch -a
 
+
+447-
+remove a file from being tracked but leave it on the disk 
+>git rm --cached <file>
+
+
+
 disk
 ----
 ~$ sudo lshw -C disk
