@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2016-02-03T00:11:04.989869140</meta:creation-date><meta:editing-duration>P2DT10H26M33S</meta:editing-duration><meta:editing-cycles>626</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2016-03-12T23:49:39.353988036</dc:date><meta:document-statistic meta:table-count="26" meta:cell-count="2975" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2016-02-03T00:11:04.989869140</meta:creation-date><meta:editing-duration>P2DT11H32M40S</meta:editing-duration><meta:editing-cycles>633</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2016-03-13T19:33:12.585488890</dc:date><meta:document-statistic meta:table-count="27" meta:cell-count="2983" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">903</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">2257</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">27152</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">125003</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">74834</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -74,7 +74,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">32</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">36</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -201,7 +201,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="c++ ref">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">298</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">300</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -210,7 +210,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">276</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">294</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -227,7 +227,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">45</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">30</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -403,6 +403,23 @@
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="optim">
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">4</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
       <config:config-item-map-entry config:name="somecompanies">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
@@ -537,7 +554,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -746,51 +763,54 @@
    <style:table-row-properties style:row-height="12.63mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro34" style:family="table-row">
-   <style:table-row-properties style:row-height="36.05mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="40.01mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro35" style:family="table-row">
-   <style:table-row-properties style:row-height="6.12mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="36.05mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro36" style:family="table-row">
-   <style:table-row-properties style:row-height="45.28mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="6.12mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro37" style:family="table-row">
-   <style:table-row-properties style:row-height="63.18mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="45.28mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro38" style:family="table-row">
-   <style:table-row-properties style:row-height="40.8mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="63.18mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro39" style:family="table-row">
-   <style:table-row-properties style:row-height="67.65mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="40.8mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro40" style:family="table-row">
-   <style:table-row-properties style:row-height="28.17mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="67.65mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro41" style:family="table-row">
-   <style:table-row-properties style:row-height="9.45mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="28.17mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro42" style:family="table-row">
-   <style:table-row-properties style:row-height="197.96mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="9.45mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro43" style:family="table-row">
-   <style:table-row-properties style:row-height="4.87mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="197.96mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro44" style:family="table-row">
-   <style:table-row-properties style:row-height="6.58mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="4.87mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro45" style:family="table-row">
-   <style:table-row-properties style:row-height="14.73mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="6.58mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro46" style:family="table-row">
-   <style:table-row-properties style:row-height="10mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="14.73mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro47" style:family="table-row">
-   <style:table-row-properties style:row-height="24.22mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="10mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro48" style:family="table-row">
-   <style:table-row-properties style:row-height="38.44mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="24.22mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro49" style:family="table-row">
+   <style:table-row-properties style:row-height="38.44mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro50" style:family="table-row">
    <style:table-row-properties style:row-height="19.47mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
@@ -1408,13 +1428,13 @@
    <style:text-properties fo:color="#ff0066"/>
   </style:style>
   <style:style style:name="T53" style:family="text">
-   <style:text-properties fo:color="#333333" style:font-name="Monospace" fo:font-size="10pt" style:font-name-asian="Monospace" style:font-name-complex="Monospace" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+   <style:text-properties style:font-name="Monospace" fo:color="#333333" style:font-size-complex="10pt" style:font-size-asian="10pt" style:font-name-complex="Monospace" style:font-name-asian="Monospace" fo:font-size="10pt"/>
   </style:style>
   <style:style style:name="T54" style:family="text">
-   <style:text-properties style:font-name="Monospace" fo:font-size="10pt" style:font-name-asian="Monospace" style:font-name-complex="Monospace" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:color="#009695"/>
+   <style:text-properties style:font-name="Monospace" style:font-size-complex="10pt" style:font-size-asian="10pt" style:font-name-complex="Monospace" style:font-name-asian="Monospace" fo:font-size="10pt" fo:color="#009695"/>
   </style:style>
   <style:style style:name="T55" style:family="text">
-   <style:text-properties style:font-name="Monospace" fo:font-size="10pt" style:font-name-asian="Monospace" style:font-name-complex="Monospace" style:font-size-asian="10pt" style:font-size-complex="10pt" fo:color="#333333"/>
+   <style:text-properties style:font-name="Monospace" style:font-size-complex="10pt" style:font-size-asian="10pt" style:font-name-complex="Monospace" style:font-name-asian="Monospace" fo:font-size="10pt" fo:color="#333333"/>
   </style:style>
   <style:style style:name="T56" style:family="text">
    <style:text-properties style:font-size-complex="10pt" fo:color="#009695" style:font-name="Monospace" fo:font-size="10pt" style:font-name-asian="Monospace" style:font-name-complex="Monospace" style:font-size-asian="10pt"/>
@@ -1452,7 +1472,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2016-03-12">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="21:06:16.284648728">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-03-13">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="18:27:01.916543551">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -17771,7 +17791,27 @@
        <text:p>}</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro20" table:number-rows-repeated="6">
+     <table:table-row table:style-name="ro20" table:number-rows-repeated="5">
+      <table:table-cell table:number-columns-repeated="2"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro20">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>std::map vs std::unordered_map</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row-group table:display="false">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
+       <table:table-cell/>
+       <table:table-cell office:value-type="string" calcext:value-type="string">
+        <text:p>the first uses tree-based lookedup, the second uses hash based lookedup</text:p>
+       </table:table-cell>
+      </table:table-row>
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
+       <table:table-cell table:number-columns-repeated="2"/>
+      </table:table-row>
+     </table:table-row-group>
+     <table:table-row table:style-name="ro20">
       <table:table-cell table:number-columns-repeated="2"/>
      </table:table-row>
      <table:table-row table:style-name="ro20">
@@ -17780,633 +17820,653 @@
        <text:p>Array, collection, typle, shared_ptr, unique_ptr</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row-group>
-      <table:table-row table:style-name="ro20">
+     <table:table-row-group table:display="false">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
+       <table:table-cell/>
+       <table:table-cell office:value-type="string" calcext:value-type="string">
+        <text:p>std::vector vs std::Array</text:p>
+       </table:table-cell>
+      </table:table-row>
+      <table:table-row-group table:display="false">
+       <table:table-row table:style-name="ro20" table:visibility="collapse">
+        <table:table-cell/>
+        <table:table-cell office:value-type="string" calcext:value-type="string">
+         <text:p>the first uses the heap, the second uses the stack</text:p>
+        </table:table-cell>
+       </table:table-row>
+       <table:table-row table:style-name="ro20" table:visibility="collapse">
+        <table:table-cell table:number-columns-repeated="2"/>
+       </table:table-row>
+      </table:table-row-group>
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
+       <table:table-cell table:number-columns-repeated="2"/>
+      </table:table-row>
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
         <text:p>Arrays are fixed-size sequence containers: they hold a specific number of elements ordered in a strict linear sequence.</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce65" office:value-type="string" calcext:value-type="string">
         <text:p>#include &lt;iostream&gt;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce65" office:value-type="string" calcext:value-type="string">
         <text:p>#include &lt;array&gt;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
         <text:p>int main ()</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::array&lt;int,10&gt; myarray;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>unsigned int i;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>// assign some values:</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>for (i=0; i&lt;10; i++) myarray[i]=i;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>// print content</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::cout &lt;&lt; &quot;myarray contains:&quot;;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>for (i=0; i&lt;10; i++)</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>std::cout &lt;&lt; &apos; &apos; &lt;&lt; myarray[i];</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::cout &lt;&lt; &apos;\n&apos;;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>return 0;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20" table:number-rows-repeated="3">
+      <table:table-row table:style-name="ro20" table:visibility="collapse" table:number-rows-repeated="3">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
         <text:p>A tuple is an object capable to hold a collection of elements. Each element can be of a different type.</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce65" office:value-type="string" calcext:value-type="string">
         <text:p>#include &lt;iostream&gt;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce65" office:value-type="string" calcext:value-type="string">
         <text:p>#include &lt;tuple&gt;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
         <text:p>int main ()</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::tuple&lt;int,char&gt; mytuple (10,&apos;a&apos;);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::get&lt;0&gt;(mytuple) = 20;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::cout &lt;&lt; &quot;mytuple contains: &quot;;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::cout &lt;&lt; std::get&lt;0&gt;(mytuple) &lt;&lt; &quot; and &quot; &lt;&lt; std::get&lt;1&gt;(mytuple);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::cout &lt;&lt; std::endl;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>return 0;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>Std::get function is specialized for pair and array too.</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce65" office:value-type="string" calcext:value-type="string">
         <text:p>#include &lt;utility&gt; <text:s text:c="5"/>// std::pair, std::get</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce65" office:value-type="string" calcext:value-type="string">
         <text:p>#include &lt;iostream&gt; <text:s text:c="4"/>// std::cout</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
         <text:p>int main () {</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::pair &lt;int,char&gt; foo (10,&apos;x&apos;);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::get&lt;0&gt;(foo) = 50;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::cout &lt;&lt; &quot;foo contains: &quot;;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>std::cout &lt;&lt; std::get&lt;0&gt;(foo) &lt;&lt; &quot; and &quot; &lt;&lt; std::get&lt;1&gt;(foo) &lt;&lt; &apos;\n&apos;;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>return 0;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro2">
+      <table:table-row table:style-name="ro2" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce63" office:value-type="string" calcext:value-type="string">
         <text:p>Is an array of Derived a kind-of an array of Base?</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>void userCode(Base* arrayOfBase)</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>arrayOfBase[1].f(); <text:s text:c="10"/>// 3</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>int main()</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>Derived arrayOfDerived[10]; <text:s text:c="2"/>// 4</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>userCode(arrayOfDerived); <text:s text:c="4"/>// 5</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="2"/>// ...</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>the compiler does not know the arg. To userCode is an array and does not detect the run time catastrophy.</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce64" office:value-type="string" calcext:value-type="string">
         <text:p>a container of derived can&apos;t be cast to container of base</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>void chug(list&lt;Base*&gt;&amp; alist)</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>for (list&lt;Base*&gt;::iterator i = alist.begin(), z = alist.end(); i != z; ++i)</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="8"/>(*i)-&gt;chug();</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>int main() </text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>list&lt;Base*&gt; baselist;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>list&lt;Derived*&gt; derlist;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>baselist.push_back(new Base);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>baselist.push_back(new Base);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>derlist.push_back(new Derived);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>derlist.push_back(new Derived);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>chug(baselist);</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>// chug(derlist); <text:s/>// How do I make this work?</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>return 0;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>} </text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20" table:number-rows-repeated="2">
+      <table:table-row table:style-name="ro20" table:visibility="collapse" table:number-rows-repeated="2">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>solution</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>template&lt;typename C, typename T&gt;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>void chug(const C&lt;T&gt;&amp; container)</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>typedef typename C&lt;T&gt;::iterator iter;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>for(iter i = container.begin(); i &lt; container.end(); ++i)</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>{</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="8"/>(*i)-&gt;chug();</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p><text:s text:c="4"/>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>}</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>solution</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
         <text:p>template&lt;typename T&gt; void chug(list&lt;T*&gt;&amp; alist) { for (list&lt;T*&gt;::iterator i = alist.begin(), z = alist.end(); i != z; ++i) (*i)-&gt;chug(); }</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20" table:number-rows-repeated="3">
+      <table:table-row table:style-name="ro20" table:visibility="collapse" table:number-rows-repeated="3">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>soltuion</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
         <text:p>Either store them by pointer (boost::shared_ptr is a popular option), or use Boost ptr_containers that store pointers internally,</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>solution</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>#include &lt;boost/ptr_container/ptr_vector.hpp&gt;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>boost::ptr_vector&lt;FooBase&gt; foos;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>foos.push_back(new FooDerived(...));</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>foos[0].memberFunc();</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>possible solution</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>`boost::any`</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43"/>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>solution</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>class IBase {};</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>class Derived : virtual public IBase {};</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>std::vector&lt;std::unique_ptr&lt;IBase&gt;&gt; v;</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce43" office:value-type="string" calcext:value-type="string">
         <text:p>v.push_back(std::unique_ptr&lt;IBase&gt;(new Derived())); </text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20">
+      <table:table-row table:style-name="ro20" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro23">
+      <table:table-row table:style-name="ro23" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string"><text:p>a unique_ptr, has the ownership of the pointee and delets it when it gets deleted. Ownership can be &quot;moved&quot; from one unique_ptr to another, but there can never be more than one owner. </text:p><text:p>With shared_ptr, there can be an arbitrary number of owners, and the last one to die deletes the pointee. </text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro20" table:number-rows-repeated="2">
+      <table:table-row table:style-name="ro20" table:visibility="collapse" table:number-rows-repeated="2">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
      </table:table-row-group>
@@ -18935,6 +18995,11 @@
       <text:p>2- Range-for : for (auto &amp;element : v)</text:p>
      </table:table-cell>
     </table:table-row>
+    <table:table-row table:style-name="ro34">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>11- loops and algo </text:p><text:p>for_each(begin(v), end(v), [](){ … });  instead of for (auto i=v.begin(); I != v.end(); ++i) { … }</text:p><text:p/><text:p>Auto I = find_if(begin(v), end(v), []() { return … }); instead of auto i=v.begin(); for(…) { if (condition(i)) break;}</text:p><text:p/><text:p/><text:p/><text:p/><text:p/><text:p/>
+     </table:table-cell>
+    </table:table-row>
     <table:table-row table:style-name="ro20">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -18942,7 +19007,7 @@
      </table:table-cell>
     </table:table-row>
     <table:table-row-group>
-     <table:table-row table:style-name="ro34">
+     <table:table-row table:style-name="ro35">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T50">auto</text:span> mean(auto <text:span text:style-name="T50">Sequence</text:span> &amp;s)  //any Sequence</text:p><text:p>{</text:p><text:p>  Auto n=0.0;</text:p><text:p>  For (auto x:s)</text:p><text:p>  {</text:p><text:p>   n+=x;</text:p><text:p>  }</text:p><text:p>  Return n/s.size(); //what if s is empty ?</text:p><text:p>}</text:p>
       </table:table-cell>
@@ -19201,14 +19266,14 @@
     <table:table-row table:style-name="ro20" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="9"/>
     </table:table-row>
-    <table:table-row table:style-name="ro35">
+    <table:table-row table:style-name="ro36">
      <table:table-cell/>
      <table:table-cell table:style-name="ce72" office:value-type="string" calcext:value-type="string">
       <text:p>13.29 inheritance</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
-    <table:table-row table:style-name="ro35">
+    <table:table-row table:style-name="ro36">
      <table:table-cell/>
      <table:table-cell table:style-name="ce73"/>
      <table:table-cell table:number-columns-repeated="7"/>
@@ -19259,7 +19324,7 @@
     <table:table-row table:style-name="ro20">
      <table:table-cell table:number-columns-repeated="9"/>
     </table:table-row>
-    <table:table-row table:style-name="ro35">
+    <table:table-row table:style-name="ro36">
      <table:table-cell/>
      <table:table-cell table:style-name="ce78" office:value-type="string" calcext:value-type="string">
       <text:p>Hiding</text:p>
@@ -19275,7 +19340,7 @@
      <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row-group table:display="false">
-     <table:table-row table:style-name="ro36" table:visibility="collapse">
+     <table:table-row table:style-name="ro37" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce79" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T53">in visual 2010implemetation was :</text:span><text:span text:style-name="T54">inline</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T54">void</text:span><text:span text:style-name="T55"> * </text:span><text:span text:style-name="T54">operator</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T54">new</text:span><text:span text:style-name="T55">[](size_t size, </text:span><text:span text:style-name="T54">char</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T54">const</text:span><text:span text:style-name="T55"> * filename, </text:span><text:span text:style-name="T54">int</text:span><text:span text:style-name="T55"> line) { ...declaration was:</text:span><text:span text:style-name="T54">void</text:span><text:span text:style-name="T55"> * </text:span><text:span text:style-name="T54">operator</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T54">new</text:span><text:span text:style-name="T55">[](size_t size, </text:span><text:span text:style-name="T54">char</text:span><text:span text:style-name="T55"> </text:span><text:span text:style-name="T54">const</text:span><text:span text:style-name="T55"> * filename, </text:span><text:span text:style-name="T54">int</text:span><text:span text:style-name="T55"> line);linker could not find the function.</text:span></text:p>
       </table:table-cell>
@@ -19283,7 +19348,7 @@
       <table:table-cell table:number-columns-repeated="2"/>
       <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
      </table:table-row>
-     <table:table-row table:style-name="ro37" table:visibility="collapse">
+     <table:table-row table:style-name="ro38" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce80" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T56">class</text:span><text:span text:style-name="T57"> Object{</text:span><text:span text:style-name="T58">public</text:span><text:span text:style-name="T57">:</text:span><text:span text:style-name="T58">virtual</text:span><text:span text:style-name="T57"> </text:span><text:span text:style-name="T58">void</text:span><text:span text:style-name="T57"> print() </text:span><text:span text:style-name="T58">const</text:span><text:span text:style-name="T57"> {cout &lt;&lt;</text:span><text:span text:style-name="T59">&quot;this is Object\n&quot;</text:span><text:span text:style-name="T57">;}};</text:span><text:span text:style-name="T58">class</text:span><text:span text:style-name="T57"> Point: </text:span><text:span text:style-name="T58">public</text:span><text:span text:style-name="T57"> Object{</text:span><text:span text:style-name="T58">public</text:span><text:span text:style-name="T57">:</text:span><text:span text:style-name="T58">void</text:span><text:span text:style-name="T57"> print() {cout &lt;&lt;</text:span><text:span text:style-name="T59">&quot;this is Point\n&quot;</text:span><text:span text:style-name="T57">;}};Point::print is hidden because of absence of const</text:span></text:p>
       </table:table-cell>
@@ -19335,7 +19400,7 @@
        <table:table-cell table:number-columns-repeated="2"/>
        <table:table-cell table:style-name="ce41" table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro38" table:visibility="collapse">
+      <table:table-row table:style-name="ro39" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce79" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T56">class</text:span><text:span text:style-name="T57"> Point: </text:span><text:span text:style-name="T58">public</text:span><text:span text:style-name="T57"> Object{};</text:span><text:span text:style-name="T58">class</text:span><text:span text:style-name="T57"> Shape: </text:span><text:span text:style-name="T58">public</text:span><text:span text:style-name="T57"> Object{};</text:span><text:span text:style-name="T58">void</text:span><text:span text:style-name="T57"> cc(</text:span><text:span text:style-name="T58">const</text:span><text:span text:style-name="T57"> Object &amp; o){Point o1=o; o1.print();}</text:span></text:p>
        </table:table-cell>
@@ -19378,14 +19443,14 @@
     <table:table-row table:style-name="ro20" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="9"/>
     </table:table-row>
-    <table:table-row table:style-name="ro35">
+    <table:table-row table:style-name="ro36">
      <table:table-cell/>
      <table:table-cell table:style-name="ce72" office:value-type="string" calcext:value-type="string">
       <text:p>13.12 exceptions</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
-    <table:table-row table:style-name="ro35">
+    <table:table-row table:style-name="ro36">
      <table:table-cell/>
      <table:table-cell table:style-name="ce73"/>
      <table:table-cell table:number-columns-repeated="7"/>
@@ -19462,7 +19527,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
-    <table:table-row table:style-name="ro39">
+    <table:table-row table:style-name="ro40">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>try </text:p><text:p>{</text:p><text:p>try </text:p><text:p>{</text:p><text:p>MyErrDerived e;</text:p><text:p>     throw e;  ←--  throw MyErrDerived. ok</text:p><text:p>    } </text:p><text:p>    catch (MyErr&amp; err) </text:p><text:p>    {</text:p><text:p>printf(&quot;B Inner catch, &amp;err=%p\n&quot;, &amp;err);</text:p><text:p>throw err; ←-- <text:span text:style-name="T61">throws an MyErr object !!! because the base class ref doens carry info on the underlying object + there could be MyErrDerived1, MyErrDerived2, … </text:span>    </text:p><text:p>    }</text:p><text:p>} </text:p><text:p>catch (MyErr&amp; err) </text:p><text:p>{</text:p><text:p>printf(&quot;B Outer catch, &amp;err=%p\n&quot;, &amp;err);</text:p><text:p>}</text:p>
      </table:table-cell>
@@ -19488,7 +19553,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="7"/>
     </table:table-row>
-    <table:table-row table:style-name="ro39">
+    <table:table-row table:style-name="ro40">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>2-try </text:p><text:p>{</text:p><text:p>try </text:p><text:p>{</text:p><text:p>MyErrDerived e;</text:p><text:p>     throw e;  ←-- safe/correct ?</text:p><text:p>    } </text:p><text:p>    catch (MyErr&amp; err) </text:p><text:p>    {</text:p><text:p>printf(&quot;B Inner catch, &amp;err=%p\n&quot;, &amp;err);</text:p><text:p>throw err; ←-- safe/correct ?  </text:p><text:p>    }</text:p><text:p>} </text:p><text:p>catch (MyErr&amp; err) </text:p><text:p>{</text:p><text:p>printf(&quot;B Outer catch, &amp;err=%p\n&quot;, &amp;err);</text:p><text:p>}</text:p>
      </table:table-cell>
@@ -19503,7 +19568,7 @@
     <table:table-row table:style-name="ro23">
      <table:table-cell table:number-columns-repeated="9"/>
     </table:table-row>
-    <table:table-row table:style-name="ro40">
+    <table:table-row table:style-name="ro41">
      <table:table-cell table:number-columns-repeated="9"/>
     </table:table-row>
    </table:table>
@@ -19822,6 +19887,30 @@
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
    </table:table>
+   <table:table table:name="optim" table:style-name="ta1">
+    <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>prefetching</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>insertion deletion in array is faster than linked list. Complexity analysis is a rough estimate only (Bjarne). Thanks to prefetch</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>an array of AI, physic, graphics. Pointed by heterogeneous objects</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
    <table:table table:name="embedded" table:style-name="ta1">
     <table:table-column table:style-name="co4" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro20" table:number-rows-repeated="4">
@@ -19960,7 +20049,7 @@
     <table:table-row table:style-name="ro20" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
-    <table:table-row table:style-name="ro41">
+    <table:table-row table:style-name="ro42">
      <table:table-cell/>
      <table:table-cell table:style-name="ce88" office:value-type="string" calcext:value-type="string">
       <text:p>Liskov&apos;s Substitution Principle(LSP) violated</text:p>
@@ -20892,7 +20981,7 @@
       <table:table-cell table:style-name="ce46" table:number-columns-spanned="3" table:number-rows-spanned="1"/>
       <table:covered-table-cell table:number-columns-repeated="2"/>
      </table:table-row>
-     <table:table-row table:style-name="ro42" table:visibility="collapse">
+     <table:table-row table:style-name="ro43" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string"><text:p>About the Company                                          </text:p><text:p> </text:p><text:p>We’re a global company and a leading provider of practice management software products for law firms worldwide. We have a large development team (over 80 in R&amp;D) in Auckland and are a strong adopter of Microsoft technologies and a Microsoft Gold Partner. Although our staff turnover is very low, the size and growth of the office means we have opportunities in many areas popping up all the time.</text:p><text:p> </text:p><text:p>We have over 3,300 clients including:</text:p><text:p>67 of the top 100 global law firms</text:p><text:p>The top 10 US law firms</text:p><text:p>21 out of the top 40 Australian law firms</text:p><text:p> </text:p><text:p>The Auckland office is almost entirely R&amp;D, away from top management. This allows an informal environment. Previous careful recruitment means you’ll be working alongside highly skilled and passionate peers building quality software and good team spirit (keen for a lunch time game of MtG? Soccer? Basketball? Badminton? Walk? Visit JB-HIFI to see the Galaxy S6?)</text:p><text:p> </text:p><text:p>About the Roles</text:p><text:p> </text:p><text:p>Our continuing growth means we are on the hunt for savvy, passionate developers to add to our teams. We’re looking for people that offer passion, quality, delivery focus, leadership and problem solving. Our teams are empowered and fast moving – our belief is that this happens with good collaboration and communication, meaning that we can act on the ideas and thought leadership that you’ll bring to the table.</text:p><text:p> </text:p><text:p>Tired of the harbour bridge? Do you like laughing at the people heading to the CBD?</text:p><text:p> </text:p><text:p>If you’ve got any interest in the following areas we’d love to hear from you.</text:p><text:p> </text:p><text:p> </text:p><text:p>Web Development</text:p><text:p>You’ll be a proven, clearly passionate, full stack web developer with a front-end focus – your core skills will be quality MVVM sites using JavaScript (possibly TypeScript), Less, HTML and MVC. Some Knockout or SQL wouldn’t hurt. You’ll be building a customisable product, not a one-off, and we’re pitching to the largest law firms in the world, meaning we’ll stretch you with some gnarly challenges that you wouldn’t find in normal web development - such as customization, internationalisation, easy deployment, varied network infrastructures, product level quality...</text:p><text:p> </text:p><text:p> </text:p><text:p>Mobile / Web App Development</text:p><text:p>We are putting apps into the Android, IOS and Blackberry app stores so that our global clients have ready access to them. You’ll help us make these complex and intelligent apps communicate with our back ends. Core skills in this area are again JavaScript / TypeScript, Less and MVC, but you’ll also have had exposure to Phonegap.</text:p><text:p> </text:p><text:p> </text:p><text:p>C# / WPF App Development</text:p><text:p>You’ll be building new applications, adding further features and services as we grow our large and technically challenging solutions that are used by the largest law firms in the world. You could choose to focus around the product modules or really test your technical skills and add value working on the framework that underpins the product. In this area you’d be solving some of the most challenging problems…. Core skills here are C#, WPF, SQL.</text:p><text:p> </text:p><text:p> </text:p><text:p>BI Development</text:p><text:p>We are about to start pushing the edge around the latest in BI and dashboard technologies. You’ll be involved in building and re-architecting from the ground up and involved in every phase of the project from conceptualisation to delivery. A key part of strategy that is starting to emerge is to leverage IBM Cognos – a new technology for us. If you’ve got skills with Framework Manager and BI Server 10.2.1 we’d love to hear from you. Oh, and you might have started looking at the newer version released in October – that’s looking very interesting and getting us excited as well….</text:p><text:p> </text:p><text:p> </text:p><text:p> </text:p><text:p>Culture and Benefits</text:p><text:p> </text:p><text:p>Even though we’re a global company the Auckland office feels like a software house – lots of technical people working in different teams and projects.</text:p><text:p> </text:p><text:p>We’ve got a funky, open plan office right across from Albany Westfield. As well as being pretty hard-core about work, we find some time for a Friday drink and some entertaining times out with the Social Club.</text:p><text:p> </text:p><text:p>We value our staff so there’s lots of perks including flexible working arrangements, additional sick leave, certification and tuition reimbursement, Income Protection, Life Insurance, an enhanced KiwiSaver Scheme, Financial Advisor and a Bonus Pool.</text:p><text:p> </text:p><text:p> </text:p><text:p>Want to know more?</text:p><text:p> </text:p><text:p>Check us out on Facebook:  http://www.facebook.com/pages/ADERANT-Asia-Pacific/119627654744243</text:p><text:p>Contact our HR manager, Reid Pittams: P: 09 414 3300, E: reid.pittams@aderant.com   </text:p>
       </table:table-cell>
@@ -21057,31 +21146,31 @@
     <table:table-column table:style-name="co4" table:default-cell-style-name="ce92"/>
     <table:table-column table:style-name="co10" table:default-cell-style-name="ce92"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="1020" table:default-cell-style-name="ce92"/>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro44">
+    <table:table-row table:style-name="ro45">
      <table:table-cell/>
      <table:table-cell table:style-name="ce93" office:value-type="string" calcext:value-type="string">
       <text:p>Boss/Worker Model</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string">
       <text:p>The boss creates each worker thread, assigns it tasks, and, if necessary, waits for it to finish. </text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string">
       <text:p>It can create its workers dynamically when requests arrive or creates all worker threads up front (thread pool)</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce95" office:value-type="string" calcext:value-type="string">
       <text:p>thread pool interface</text:p>
@@ -21094,12 +21183,12 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="4">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="4">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro35">
+    <table:table-row table:style-name="ro36">
      <table:table-cell/>
      <table:table-cell table:style-name="ce96" office:value-type="string" calcext:value-type="string">
       <text:p>Peer Model</text:p>
@@ -21107,125 +21196,125 @@
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
     <table:table-row-group table:display="false">
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce97" office:value-type="string" calcext:value-type="string">
        <text:p>The peer model is suitable for applications that have a fixed or well-defined set of inputs, such as matrix multipliers, parallel database search engines, and prime number generators.</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro45" table:visibility="collapse">
+     <table:table-row table:style-name="ro46" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce97" office:value-type="string" calcext:value-type="string"><text:p>Well-defined input allows programs to adopt what could be construed as a boss/worker model without the boss. </text:p><text:p>Because there is no boss, peers themselves must synchronize their access to any common sources of input. </text:p><text:p>However, like workers in the boss/worker model, Peers can also slow down if they must frequently synchronize to access shared resources.</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce97" office:value-type="string" calcext:value-type="string">
        <text:p>all threads must synchronize afterward to exchange and compare each other&apos;s results.</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
     </table:table-row-group>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro44">
+    <table:table-row table:style-name="ro45">
      <table:table-cell/>
      <table:table-cell table:style-name="ce93" office:value-type="string" calcext:value-type="string">
       <text:p>Pipeline Model</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>pipeline improves throughput because it can accomplish the many different stages of a process on different input units (be they cars or instructions) concurrently</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro45">
+    <table:table-row table:style-name="ro46">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>a single thread receives input for the entire program, always passing it to the thread that handles the first stage of processing. </text:p><text:p>Similarly a single thread at the end of the pipeline produces all final output for the program. </text:p><text:p>Each thread in between performs its own stage of processing on the input it received from the thread that performed the previous stage, and passes its output to the thread performing the next. </text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro46">
+    <table:table-row table:style-name="ro47">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Applications in which the pipeline might be useful are image processing and text processing or </text:p><text:p>Any application that can be broken down into a series of filter steps on a stream of input.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro46">
+    <table:table-row table:style-name="ro47">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>We could add multiplexing or demultiplexing to this pipeline, allowing multiple threads to work in parallel on a particular stage. </text:p><text:p>We could also dynamically configure the pipeline at run time, having it create and terminate stages (and the threads to service them) as needed.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro45">
+    <table:table-row table:style-name="ro46">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>the overall throughput of a pipeline is limited by the thread that processes its slowest stage. Threads that follow it in the pipeline cannot perform their stages until it has completed. </text:p><text:p>When designing a multithreaded program according to the pipeline model, you should aim at balancing the work to be performed across all stages; </text:p><text:p>That is, all stages should take about the same amount of time to complete.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro44">
+    <table:table-row table:style-name="ro45">
      <table:table-cell/>
      <table:table-cell table:style-name="ce98" office:value-type="string" calcext:value-type="string">
       <text:p>Buffering Data Between Threads</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>one thread produces data, another one consumes it (producer/consumer)</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>this relationship requires:</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro46">
+    <table:table-row table:style-name="ro47">
      <table:table-cell/>
      <table:table-cell table:style-name="ce99" office:value-type="string" calcext:value-type="string"><text:p>a buffer: that contains one data item to process. or many items with tracking for new unprocessed ones.</text:p><text:p>Double buffering: io thread reads io and places unprocessed data in b1. Calculating thread processes it and palces it in b2. Io thread writes it in io</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>a lock: to synchronize access to buffer</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro45">
+    <table:table-row table:style-name="ro46">
      <table:table-cell/>
      <table:table-cell table:style-name="ce99" office:value-type="string" calcext:value-type="string"><text:p>a suspend/resume mecanism:  The consumer may suspend itself when the buffer contains no data for it to consume. </text:p><text:p>If so, the producer must be able to resume it when it places a new item in the buffer. </text:p><text:p>With Pthreads, you would arrange this mechanism using a condition variable.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>state information: how much data is in the buffer</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro35">
+    <table:table-row table:style-name="ro36">
      <table:table-cell/>
      <table:table-cell table:style-name="ce100" office:value-type="string" calcext:value-type="string">
       <text:p>Cost of Threading</text:p>
@@ -21246,24 +21335,24 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>The time during which the application is inactive while one thread is waiting on another thread. This cost results from too many dependencies among threads and can be allayed by improved program design.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="8">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="8">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce101" office:value-type="string" calcext:value-type="string">
       <text:p>mutex</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro45">
+    <table:table-row table:style-name="ro46">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>using mutex We&apos;ve limited access to the entire database to a single thread at a time, thus slowing performance considerably.</text:p><text:p>Other threads needing access to the database need to wait for one thread to finish its whole work</text:p><text:p>Improve Lock granularity by using mutexes for individual account records</text:p>
      </table:table-cell>
@@ -21275,23 +21364,23 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro47">
+    <table:table-row table:style-name="ro48">
      <table:table-cell/>
      <table:table-cell table:style-name="ce102" office:value-type="string" calcext:value-type="string"><text:p>using pthread_mutex_trylock represents a kind of polling for a resource≈repeatedly trying and backing off until the resource is obtained. </text:p><text:p>This polling leads to some overhead and, worse, potential resource starvation. If the lock is in high demand, the thread that polls for it may never get it. a thread that is not patient enough to block and wait may never try the lock and find it available≈there is always at least one other thread blocked waiting for the lock.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1019"/>
@@ -21304,12 +21393,12 @@
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="10">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="10">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce104" office:value-type="string" calcext:value-type="string">
       <text:p>shortcomings</text:p>
@@ -21322,14 +21411,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string">
       <text:p>2- no recursive lock</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
@@ -21341,14 +21430,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro45">
+    <table:table-row table:style-name="ro46">
      <table:table-cell/>
      <table:table-cell table:style-name="ce102" office:value-type="string" calcext:value-type="string">
       <text:p>A recursive mutex is useful for a thread that makes a number of nested calls to a routine that locks and manipulates a resource. If the thread already holds the lock, the calls merely increase and decrease the recursive count and don&apos;t deadlock the thread.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="4">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="4">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
@@ -21359,12 +21448,12 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro44">
+    <table:table-row table:style-name="ro45">
      <table:table-cell/>
      <table:table-cell table:style-name="ce106" office:value-type="string" calcext:value-type="string">
       <text:p>Sharing a Mutex Among Processes</text:p>
@@ -21373,7 +21462,7 @@
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1018"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce107" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p>mutex has 3 attributes. One of them can be set to PTHREAD_PROCESS_SHARED to be shared by many processes.</text:p>
@@ -21381,17 +21470,17 @@
      <table:covered-table-cell table:number-columns-repeated="2" table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1018"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce102"/>
      <table:table-cell table:number-columns-repeated="1020"/>
@@ -21418,7 +21507,7 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro48">
+     <table:table-row table:style-name="ro49">
       <table:table-cell/>
       <table:table-cell table:style-name="ce102" office:value-type="string" calcext:value-type="string"><text:p>std::condition_variable::wait* puts the thread to sleep waiting on a notification and releases the mutex it has locked previously. This allows other threads needing the mutex to run.</text:p><text:p>The notification happens from another thread using std::condition_variable::notify*</text:p><text:p>When the condition variable is notified, the sleeping thread is awaken and is put on the queue to get the mutex</text:p><text:p>But certain implementations may produce spurious wake-up calls without any std::condition_variable::notify* functions being called. Therefore, users of this function shall ensure their condition for resumption is met.</text:p><text:p><text:span text:style-name="T5">users of this function should ensure their condition for resumption is met also because another thread could have changed the condition between the time the sleeping thread was awaken and the time it owned the mutex</text:span></text:p>
       </table:table-cell>
@@ -21438,7 +21527,7 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>std::unique_lock&lt;std::mutex&gt; lck(mtx);</text:p>
@@ -21446,7 +21535,7 @@
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1019"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>while (count &lt;= WATCH_COUNT) </text:p>
@@ -21454,7 +21543,7 @@
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1019"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>{</text:p>
@@ -21462,7 +21551,7 @@
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1019"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>cout &lt;&lt; &quot;watch_count(): Thread &quot; &lt;&lt; idp &lt;&lt; &quot; might block and Count is &quot; &lt;&lt; count &lt;&lt; endl;</text:p>
@@ -21470,7 +21559,7 @@
       <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>cv.wait(lck);</text:p>
@@ -21478,7 +21567,7 @@
       <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>cout &lt;&lt; &quot;watch_count(): Thread &quot; &lt;&lt; idp &lt;&lt; &quot; awoke and Count is &quot; &lt;&lt; count &lt;&lt; endl;</text:p>
@@ -21486,7 +21575,7 @@
       <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>}</text:p>
@@ -21494,14 +21583,14 @@
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1019"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
        <text:p>}</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1020"/>
@@ -21513,7 +21602,7 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>for (int i =0; i &lt; TCOUNT; i++) </text:p>
@@ -21522,7 +21611,7 @@
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>{</text:p>
@@ -21531,7 +21620,7 @@
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>std::unique_lock&lt;std::mutex&gt; lck(mtx);</text:p>
@@ -21539,7 +21628,7 @@
       <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>count++;</text:p>
@@ -21547,7 +21636,7 @@
       <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>if (count == WATCH_COUNT)</text:p>
@@ -21555,7 +21644,7 @@
       <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p><text:s text:c="3"/>cv.notify_all();</text:p>
@@ -21563,7 +21652,7 @@
       <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43">
+     <table:table-row table:style-name="ro44">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>}</text:p>
@@ -21572,18 +21661,18 @@
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1018"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+     <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
       <table:table-cell/>
       <table:table-cell table:style-name="Default"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
     </table:table-row-group>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="4">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="4">
      <table:table-cell/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce102"/>
      <table:table-cell table:number-columns-repeated="1020"/>
@@ -21595,25 +21684,25 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string"><text:p>In <text:a xlink:href="http://maxim.int.ru/bookshelf/PthreadsProgram/htm/viewer_r.html+bkid=232&amp;destid=676161.html#676161" xlink:type="simple">Chapter 4</text:a>, we&apos;ll show you how to eliminate the risk of priority inversion by using mutex attributes.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce104" office:value-type="string" calcext:value-type="string">
       <text:p>Refrences</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string">
       <text:p>Later in this chapter, as a performance enhancement, we&apos;ll add mutexes for individual account records to our server.</text:p>
@@ -21627,34 +21716,34 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string"><text:p>In <text:a xlink:href="http://maxim.int.ru/bookshelf/PthreadsProgram/htm/viewer_r.html+bkid=232&amp;destid=676161.html#676161" xlink:type="simple">Chapter 4</text:a>, we&apos;ll discuss how you can avoid priority inversion problems by using attributes to assign priorities to mutexes.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string"><text:p>Secure non-threadsafe code in <text:a xlink:href="http://maxim.int.ru/bookshelf/PthreadsProgram/htm/viewer_r.html+bkid=232&amp;destid=986815.html#986815" xlink:type="simple">Chapter 5</text:a>.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string">
       <text:p>see Chapter 6, Practical Considerations, for performance issues and how to minimize locks</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94"/>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Interview questions</text:p>
@@ -21669,21 +21758,21 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>1. Thread pool (Boss/Workers)</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>2. Peer (Work crew)</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>3. Pipeline </text:p>
@@ -21704,12 +21793,12 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>If the boss thread becomes a worker thread once it&apos;s done starting other worker threads then this is a Peer Thread Design Pattern. </text:p>
@@ -21723,7 +21812,7 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>The code between lock and unlock calls to a mutex. </text:p>
@@ -21737,14 +21826,14 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>- Recursive: allows a thread holding the lock to acquire the same lock again which may be necessary for recursive algorithms.</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
@@ -21756,7 +21845,7 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
@@ -21768,12 +21857,12 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>- Scoped: RAII-style semantics regarding lock acquisition and unlocking. </text:p>
@@ -21828,7 +21917,7 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>Take steps within your program to enforce serial access to shared file descriptors and other external resources. </text:p>
@@ -21849,12 +21938,12 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>As happened on the Mars Pathfinder. </text:p>
@@ -21875,12 +21964,12 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>In Java wait() and notify() are used. </text:p>
@@ -21915,12 +22004,12 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>Semaphores are more common in multiprocess programming (i.e. it&apos;s usually used as a synch primitive between processes). </text:p>
@@ -21941,12 +22030,12 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>Spinlocks should be avoided in uniprocessor contexts. </text:p>
@@ -21960,42 +22049,42 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>1. Mutex</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>2. Join</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>3. Condition variables</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>4. Barriers</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>5. Spin lock</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>6. Semaphore </text:p>
@@ -22023,7 +22112,7 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>Multithreaded code written such that the threads can never permanently lock up. </text:p>
@@ -22037,120 +22126,120 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>When one thread is waiting for another thread using an active looping structure that doesn&apos;t do anything. Example: </text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>Thread task = new TheTask();</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>task.start();</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>while( task.isAlive() ){</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>; // do nothing</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>}</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce47"/>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse">
+     <table:table-row table:style-name="ro44" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>This can be avoided using mutexes. </text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1020"/>
      </table:table-row>
-     <table:table-row table:style-name="ro43" table:visibility="collapse" table:number-rows-repeated="2">
+     <table:table-row table:style-name="ro44" table:visibility="collapse" table:number-rows-repeated="2">
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
     </table:table-row-group>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>pbs</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce94" office:value-type="string" calcext:value-type="string">
       <text:p>priority inversion</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>deadlock</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>C++11</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro46">
+    <table:table-row table:style-name="ro47">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Thread A may not represent any thread of execution. Default constructor of thread class creates such thread.</text:p><text:p><text:span text:style-name="T5">Thread::thread();</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro46">
+    <table:table-row table:style-name="ro47">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>a thread A can be moved to a new thread. Thread A no more represents any thread of execution.</text:p><text:p>Thread::thread (thread&amp;&amp; x) noexcept;</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro47">
+    <table:table-row table:style-name="ro48">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>a thread can be joinable, if it is :</text:p><text:p>- Represents a thread of execution (Not default constructed, Not moved from)</text:p><text:p>- And join and detach have not been called yet.</text:p><text:p/><text:p>When the thread is joinable, it has a unique id</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="1048372">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="1048372">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
    </table:table>
@@ -22378,157 +22467,157 @@
    </table:table>
    <table:table table:name="time management" table:style-name="ta1">
     <table:table-column table:style-name="co4" table:number-columns-repeated="1024" table:default-cell-style-name="ce92"/>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>when estimating, plan for the bad things/insterruptions/relaxation and pause/surprises</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>when estimating, break down the tasks to smaller ones</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>difficult tasks broken down to smaller tasks</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>avoid time wasters</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>regularly check the time and progress</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>Regularly update your plans according to reality.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>delegate</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Give objectives, not procedures, take responsibility and accountability. Describe a task clearly. Provide a &quot;how to test&quot; example.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>have a todo list. </text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>updated with every task you get</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>reorder priorities</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce55" office:value-type="string" calcext:value-type="string">
       <text:p>Estimate every task, set deadlines yourself. This will help you to avoid doing things in a last minute.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>prioritize them</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce109" office:value-type="string" calcext:value-type="string">
       <text:p>start some tasks ahead of time. So that they are ready when you want them. Not every customer can answer immediately</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>inform team leader/manager of the road blocks, suggest priorities adjustments</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>start a task when waiting on sth</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro49">
+    <table:table-row table:style-name="ro50">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>finish in time not worry about a perfect solution that fits for all. </text:p><text:p>Get the job done and you can add more features later. </text:p><text:p>Do not save on coding conventions and code quality. </text:p><text:p>Pure code usually increases support time later. Consider unit tests, it can improve quality and speedup development. Automated tests reward with a confidence.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="3">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>priorities</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>urgent</text:p>
@@ -22538,7 +22627,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro45">
+    <table:table-row table:style-name="ro46">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>important</text:p>
      </table:table-cell>
@@ -22551,7 +22640,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro45">
+    <table:table-row table:style-name="ro46">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>not imporatant</text:p>
      </table:table-cell>
@@ -22561,7 +22650,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro24">
@@ -22588,20 +22677,20 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce109"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="6">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="6">
      <table:table-cell/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce89" office:value-type="string" calcext:value-type="string">
       <text:p>1. Planning &amp; prioritizing</text:p>
@@ -22622,10 +22711,10 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="3">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
       <text:p>“A time”</text:p>
@@ -22635,14 +22724,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
       <text:p>“B time”</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
@@ -22650,7 +22739,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
@@ -22658,7 +22747,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
@@ -22666,7 +22755,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
@@ -22674,7 +22763,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
@@ -22682,7 +22771,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
@@ -22690,38 +22779,38 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell/>
      <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
       <text:p>“C time”</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>meetings not related to delivering value or planning to deliver value</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce53" office:value-type="string" calcext:value-type="string">
       <text:p>email not related to “A” or “B” time activities</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce109" office:value-type="string" calcext:value-type="string">
       <text:p>…</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43" table:number-rows-repeated="1048511">
+    <table:table-row table:style-name="ro44" table:number-rows-repeated="1048511">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro43">
+    <table:table-row table:style-name="ro44">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
