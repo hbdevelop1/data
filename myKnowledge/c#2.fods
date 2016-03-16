@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2016-02-03T00:11:04.989869140</meta:creation-date><meta:editing-duration>P2DT15H48M40S</meta:editing-duration><meta:editing-cycles>660</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2016-03-14T16:55:09.975154646</dc:date><meta:document-statistic meta:table-count="29" meta:cell-count="3029" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2016-02-03T00:11:04.989869140</meta:creation-date><meta:editing-duration>P3DT17H46M17S</meta:editing-duration><meta:editing-cycles>704</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2016-03-17T10:28:46.272695766</dc:date><meta:document-statistic meta:table-count="29" meta:cell-count="3077" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">903</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">2257</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">27152</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">136394</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">11289</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">44783</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -319,8 +319,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="interviews">
-       <config:config-item config:name="CursorPositionX" config:type="int">7</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">93</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">82</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -329,7 +329,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">15</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">27</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -506,8 +506,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">TCP IP</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1306</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">interviews</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1304</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -570,6 +570,13 @@
     </config:config-item-map-entry>
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">GB</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
      <config:config-item config:name="Country" config:type="string">CA</config:config-item>
      <config:config-item config:name="Variant" config:type="string"/>
      <config:config-item config:name="BeginLine" config:type="string"/>
@@ -603,7 +610,6 @@
  <office:font-face-decls>
   <style:font-face style:name="Arial2" svg:font-family="Arial"/>
   <style:font-face style:name="Cambria" svg:font-family="Cambria" style:font-family-generic="modern"/>
-  <style:font-face style:name="F" svg:font-family="" style:font-family-generic="roman"/>
   <style:font-face style:name="Cambria1" svg:font-family="Cambria" style:font-family-generic="roman"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman"/>
   <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="swiss"/>
@@ -1279,24 +1285,59 @@
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="NZ" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="ce113" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial3" fo:font-size="10pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce114" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial3" fo:font-size="10pt" fo:language="en" fo:country="GB" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-name-asian="Arial" style:font-size-asian="10pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="italic" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce115" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial3" fo:font-size="10pt" fo:language="en" fo:country="GB" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="italic" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce116" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#00ff66"/>
+  </style:style>
+  <style:style style:name="ce117" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" style:font-name="Arial3" fo:font-size="10pt" fo:language="en" fo:country="GB" style:font-name-asian="Arial" style:font-size-asian="10pt" style:language-asian="ar" style:country-asian="SA"/>
+  </style:style>
+  <style:style style:name="ce118" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#ff3333" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial3" fo:font-size="10pt" fo:language="en" fo:country="GB" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="italic" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce119" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="no-wrap"/>
+   <style:paragraph-properties fo:margin-left="0mm"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial3" fo:font-size="10pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce120" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="transparent"/>
+   <style:text-properties fo:color="#cc0066"/>
+  </style:style>
+  <style:style style:name="ce121" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:text-properties fo:color="#cc0066" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial3" fo:font-size="10pt" fo:language="en" fo:country="GB" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="ar" style:country-asian="SA" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce122" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#0000ff" style:font-name-complex="DejaVu Sans" style:language-complex="en" style:country-complex="US"/>
+  </style:style>
+  <style:style style:name="ce123" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:font-name="Liberation Sans" style:font-name-asian="Droid Sans Fallback" style:font-name-complex="FreeSans1"/>
   </style:style>
-  <style:style style:name="ce114" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce124" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="ce115" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce125" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:language="en" fo:country="CA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="6.80000019073486pt" style:language-asian="hi" style:country-asian="IN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce116" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce126" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:language="en" fo:country="CA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="6.80000019073486pt" style:language-asian="hi" style:country-asian="IN" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce117" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce127" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce118" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce128" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="no-wrap"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="12pt" fo:language="en" fo:country="CA" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="6.80000019073486pt" style:language-asian="hi" style:country-asian="IN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="6.80000019073486pt" style:language-complex="en" style:country-complex="US" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
@@ -1506,13 +1547,19 @@
    <style:text-properties fo:color="#ff0000"/>
   </style:style>
   <style:style style:name="T62" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Calibri" fo:font-size="12pt" fo:country="CA" style:country-asian="IN" style:font-name-asian="Calibri"/>
+   <style:text-properties style:font-name="Arial" fo:font-size="10pt" fo:font-style="italic" style:letter-kerning="true" fo:country="none" style:country-asian="none" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T63" style:family="text">
-   <style:text-properties style:font-name=""/>
+   <style:text-properties fo:color="#000000" style:font-name="Arial" fo:font-size="10pt" style:letter-kerning="true" fo:country="none" style:country-asian="none" style:font-name-asian="Arial" style:font-size-asian="10pt"/>
   </style:style>
   <style:style style:name="T64" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Calibri" fo:font-size="9pt" fo:country="CA" style:country-asian="IN" style:font-name-asian="Calibri" style:font-size-asian="9pt"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="11pt" fo:font-style="italic" style:letter-kerning="true" fo:country="none" style:country-asian="none" style:font-size-asian="11pt" style:font-size-complex="11pt" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri" fo:font-size="12pt" fo:country="none" style:country-asian="none" style:font-name-asian="Calibri"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri" fo:font-size="9pt" fo:country="none" style:country-asian="none" style:font-name-asian="Calibri" style:font-size-asian="9pt"/>
   </style:style>
  </office:automatic-styles>
  <office:master-styles>
@@ -1532,7 +1579,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2016-03-14">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="10:54:10.669083358">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-03-17">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="09:58:27.526875382">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -23000,7 +23047,7 @@
     <table:table-column table:style-name="co4" table:number-columns-repeated="8" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro20">
      <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce113" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="10"><text:p><text:span text:style-name="T32">retake tests:</text:span></text:p><text:p><text:span text:style-name="T32">GL</text:span></text:p><text:p><text:span text:style-name="T32">Ubisoft</text:span></text:p><text:p><text:span text:style-name="T32">Amazon</text:span></text:p><text:p><text:span text:style-name="T32">Rock star</text:span></text:p><text:p><text:span text:style-name="T32">Codility</text:span></text:p><text:p><text:span text:style-name="T32">Eidos</text:span></text:p>
+     <table:table-cell table:style-name="ce123" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="10"><text:p><text:span text:style-name="T32">retake tests:</text:span></text:p><text:p><text:span text:style-name="T32">GL</text:span></text:p><text:p><text:span text:style-name="T32">Ubisoft</text:span></text:p><text:p><text:span text:style-name="T32">Amazon</text:span></text:p><text:p><text:span text:style-name="T32">Rock star</text:span></text:p><text:p><text:span text:style-name="T32">Codility</text:span></text:p><text:p><text:span text:style-name="T32">Eidos</text:span></text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="2"/>
     </table:table-row>
@@ -23014,7 +23061,7 @@
       <text:p>multi threading quiz</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:covered-table-cell table:style-name="ce113"/>
+     <table:covered-table-cell table:style-name="ce123"/>
      <table:covered-table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro20">
@@ -23023,7 +23070,7 @@
       <text:p>network programming</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:covered-table-cell table:style-name="ce113"/>
+     <table:covered-table-cell table:style-name="ce123"/>
      <table:covered-table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro20">
@@ -23040,7 +23087,7 @@
       <text:p>C++</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:covered-table-cell table:style-name="ce114"/>
+     <table:covered-table-cell table:style-name="ce124"/>
      <table:covered-table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro20">
@@ -23143,10 +23190,9 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
     </table:table-row>
-    <table:table-row table:style-name="ro20">
+    <table:table-row table:style-name="ro28">
      <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>opengl</text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>opengl,  modern opengl 4.0+, nehe tutorials are kinda old, and a lot of them use the fixed function pipeline. </text:p><text:p>Completely master the opengl pipeline (vertex/fragment stages), setting the 3d world up with matrix transformations.  </text:p><text:p>Be a MASSIVE bonus if you have computer vision background</text:p><text:p>(got info from an Animation Research Limited wallace Yuen)</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="6"/>
     </table:table-row>
@@ -23366,7 +23412,11 @@
      <table:table-cell table:number-columns-repeated="8"/>
     </table:table-row>
     <table:table-row table:style-name="ro20">
-     <table:table-cell table:number-columns-repeated="8"/>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>60000, per annum</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
     </table:table-row>
     <table:table-row table:style-name="ro20">
      <table:table-cell/>
@@ -23509,6 +23559,364 @@
       <table:table-cell table:number-columns-repeated="8"/>
      </table:table-row>
     </table:table-row-group>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce64" office:value-type="string" calcext:value-type="string">
+      <text:p>Hamilton Jet</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce113" office:value-type="string" calcext:value-type="string">
+      <text:p>testing strategy</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce114" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T62">Medium to high level of competency in programming in C++ is essential.  Some experience using Python and C# would be preferred.  </text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Experience with automated testing frameworks beneficial</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string">
+      <text:p>Experience and the ability to understand system requirements documentation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string">
+      <text:p>create test methods to verify compliance.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce116" office:value-type="string" calcext:value-type="string">
+      <text:p>what language is used to create test methods. Unit, system,integration</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Learn unit testing using google framework/ cppunit/ IBM RRTT or other. </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce117" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T63">Traceability</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce117" office:value-type="string" calcext:value-type="string">
+      <text:p>severity, priority, </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string">
+      <text:p>A track record of working successfully with design &amp; systems engineers in the development of test methods.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Hb would read first the system requirements documentation. And check with design and systems engineers to make sure</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce118" office:value-type="string" calcext:value-type="string">
+      <text:p>Strong on mathematics, statistics and reliability for analysis of results and setting test criteria.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string"><text:p>Skill at problem solving and the use of problem solving tools.!!!! <text:span text:style-name="T31">what problems ?</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string">
+      <text:p>Able to clearly and concisely document test outcomes and test methods.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce122" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T15">hb would create </text:span><text:span text:style-name="T64">project test plans </text:span><text:span text:style-name="T15">similar to airbus PTV</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce119" office:value-type="string" calcext:value-type="string">
+      <text:p>Making customer needs the primary focus</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>le texte de l&apos;objectif fait la qualité du test.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce120" office:value-type="string" calcext:value-type="string">
+      <text:p>interviewer will give a problem, and ask for test cases.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce121" office:value-type="string" calcext:value-type="string">
+      <text:p>understands that different situations and levels may call for different skills and approaches; works to deploy strengths; works on compensating for weakness and limits.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce120" office:value-type="string" calcext:value-type="string">
+      <text:p>what is pinpointing ? Isolation ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro23">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce120" office:value-type="string" calcext:value-type="string"><text:p>RISKS during interview:</text:p><text:p>Not understading what an activity is ?</text:p><text:p>Not understanding what a key word means ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>what is DO167B ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>what is a senario for ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>How is the partition done ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>do you like the position ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>testing experience improved my programming skills. </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro23">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>this experience will allow me to work with some highly skilled gyus. </text:p><text:p>      I had the experience in GL NZ. </text:p><text:p>      Testing in another environment where the team has only a requirement doc and a process to follow. </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Les tests de vérification du logiciel sont des tests systèmes et unitaires exécutés avec l&apos;outil RTRT (Rational Test Real Time) sur SUN et PC-Lynx</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>name the test</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>test on which is depends. They are run one after the other as set in a script</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>list all objectives of the test</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>each objective shows the requirement it is linked to in the SLS</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Exigences couvertes</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Environnement du test</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro20" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>- les zones de RAM utilisées par ARF_MGR,</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="6"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro20" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>- les canaux de communication : pipes et files de messages,</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="6"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro20" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="2"/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>pipes needed. Printer pipe, pipe mcdu, …</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="5"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro20" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="8"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro20" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>- les databases,</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="6"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro20" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>- les interfaces simulées avec les autres sous-ensemble de l’ATSU.</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="6"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro20" table:visibility="collapse" table:number-rows-repeated="3">
+      <table:table-cell table:number-columns-repeated="8"/>
+     </table:table-row>
+    </table:table-row-group>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Passage du test et résultats attendus</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>-code coverage</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>-unit tests</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pour vérifier des exigences de bas niveau ou</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pour compléter la couverture structurelle des instructions.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="5"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>la couverture structurelle des instructions.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20" table:number-rows-repeated="3">
+     <table:table-cell table:number-columns-repeated="8"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro20">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>O1 : Dans le cas où la database WorldMap est invalide, ARF_MGR doit envoyer un LightOn afin d’afficher un &lt;REQ&gt;.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="6"/>
+    </table:table-row>
    </table:table>
    <table:table table:name="links" table:style-name="ta1">
     <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
@@ -23580,7 +23988,7 @@
     <table:table-row-group>
      <table:table-row table:style-name="ro10">
       <table:table-cell/>
-      <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string"><text:p>Bandwidth is the amount of data that passes through a network connection over time as measured in bits per second (bps).</text:p><text:p><text:span text:style-name="T62">the theoretical peak bandwidth of a network connection is fixed according to the technology used, </text:span></text:p><text:p><text:span text:style-name="T62">the actual bandwidth you will obtain varies over time and is affected by high latencies.</text:span></text:p>
+      <table:table-cell table:style-name="ce125" office:value-type="string" calcext:value-type="string"><text:p>Bandwidth is the amount of data that passes through a network connection over time as measured in bits per second (bps).</text:p><text:p><text:span text:style-name="T65">the theoretical peak bandwidth of a network connection is fixed according to the technology used, </text:span></text:p><text:p><text:span text:style-name="T65">the actual bandwidth you will obtain varies over time and is affected by high latencies.</text:span></text:p>
       </table:table-cell>
      </table:table-row>
      <table:table-row table:style-name="ro20">
@@ -23588,7 +23996,7 @@
      </table:table-row>
      <table:table-row table:style-name="ro10">
       <table:table-cell/>
-      <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T62">In Satellite Internet connections, </text:span><text:span text:style-name="T63">This high latency is due primarily to propagation delay as the request message travels at the speed </text:span></text:p><text:p><text:span text:style-name="T63">of light to the distant satellite station and back to the home network. </text:span></text:p><text:p><text:span text:style-name="T63">Once the messages arrive on Earth, however, the page loads quickly like on other high-bandwidth Internet connections (DSL or cable).</text:span></text:p>
+      <table:table-cell table:style-name="ce125" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T65">In Satellite Internet connections, </text:span>This high latency is due primarily to propagation delay as the request message travels at the speed </text:p><text:p>of light to the distant satellite station and back to the home network. </text:p><text:p>Once the messages arrive on Earth, however, the page loads quickly like on other high-bandwidth Internet connections (DSL or cable).</text:p>
       </table:table-cell>
      </table:table-row>
      <table:table-row table:style-name="ro20">
@@ -23600,44 +24008,44 @@
     </table:table-row>
     <table:table-row table:style-name="ro11">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string"><text:p>Very often, latency is measured by the time it takes a given network packet to travel from source to destination and back, </text:p><text:p>The so-called round-trip time.</text:p>
+     <table:table-cell table:style-name="ce125" office:value-type="string" calcext:value-type="string"><text:p>Very often, latency is measured by the time it takes a given network packet to travel from source to destination and back, </text:p><text:p>The so-called round-trip time.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce115"/>
+     <table:table-cell table:style-name="ce125"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce116" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce126" office:value-type="string" calcext:value-type="string">
       <text:p>packet delivery time or latency</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce125" office:value-type="string" calcext:value-type="string">
       <text:p>The packet delivery time or latency is the time from the first bit leaves the transmitter until the last is received.</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce116" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce126" office:value-type="string" calcext:value-type="string">
       <text:p>The transmission time vs the propagation delay</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro20">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce117" office:value-type="string" calcext:value-type="string"><text:p>(<text:span text:style-name="T64">http://en.wikipedia.org/wiki/Transmission_time</text:span>)</text:p>
+     <table:table-cell table:style-name="ce127" office:value-type="string" calcext:value-type="string"><text:p>(<text:span text:style-name="T66">http://en.wikipedia.org/wiki/Transmission_time</text:span>)</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro11">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce118" office:value-type="string" calcext:value-type="string"><text:p>The transmission time should not be confused with the propagation delay, which is the time it takes for the first bit to travel from the sender</text:p><text:p> to the receiver (During this time the receiver is unaware that a message is being transmitted).</text:p>
+     <table:table-cell table:style-name="ce128" office:value-type="string" calcext:value-type="string"><text:p>The transmission time should not be confused with the propagation delay, which is the time it takes for the first bit to travel from the sender</text:p><text:p> to the receiver (During this time the receiver is unaware that a message is being transmitted).</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce115"/>
+     <table:table-cell table:style-name="ce125"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -23659,7 +24067,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce115"/>
+     <table:table-cell table:style-name="ce125"/>
     </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="2"/>
@@ -23699,7 +24107,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>for every set of packets received, an ACK is sent with <text:span text:style-name="T62">an acknowledgement number field which identifies the number of the next packet expected</text:span></text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>for every set of packets received, an ACK is sent with <text:span text:style-name="T65">an acknowledgement number field which identifies the number of the next packet expected</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro20">
@@ -23710,12 +24118,12 @@
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell/>
-     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>there is <text:span text:style-name="T62">Selective ACK which is used to say &quot;Received bytes 2000-8000, but not 0-2000&quot;</text:span></text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>there is <text:span text:style-name="T65">Selective ACK which is used to say &quot;Received bytes 2000-8000, but not 0-2000&quot;</text:span></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce125" office:value-type="string" calcext:value-type="string">
       <text:p>The exchanged sequence numbers are used to identify lost packets and enable a retry mechanism, and also to reassemble the entire stream of packets in the correct order.</text:p>
      </table:table-cell>
     </table:table-row>
@@ -23724,7 +24132,7 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce115" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce125" office:value-type="string" calcext:value-type="string">
       <text:p>a message might be split across several packets, and a packet might be split across several datagrams.</text:p>
      </table:table-cell>
     </table:table-row>
