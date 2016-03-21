@@ -406,7 +406,13 @@ list all branches
 remove a file from being tracked but leave it on the disk 
 >git rm --cached <file>
 
-
+448-
+undo the last commit , not pushed
+>git reset --soft HEAD~ 
+... modification
+>git add <files>
+>git commit -C ORIG_HEAD ; to commit with the same message as the commit redone
+>git commit -c ORIG_HEAD ; to commit with the new message; vi opens up
 
 disk
 ----
