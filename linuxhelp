@@ -359,8 +359,6 @@ a branch is not available to others unless you push the branch to your remote re
    37  git pull origin master
 to pull whatever is in origin
 
-   44  git checkout -- linuxhelp
-to drop local changes in linuxhelp
 
    51  git checkout -b branch1
 create the main branch
@@ -392,9 +390,16 @@ I am lost. i wanted to push a new version of my file, but I don't know which rem
     branch1 pousse vers branch1 (à jour)
     master  pousse vers master  (peut être mis à jour en avance rapide)
 
+
+444A  git checkout -- <modifiedfilename>
+to drop local changes in modifiedfilename
+
+444B  git add linuxhelp
+
 445-
 undo git add:
 >git reset <file>
+
 
 
 446-
@@ -413,6 +418,20 @@ undo the last commit , not pushed
 >git add <files>
 >git commit -C ORIG_HEAD ; to commit with the same message as the commit redone
 >git commit -c ORIG_HEAD ; to commit with the new message; vi opens up
+
+
+
+449-checkout (set directory to) an old commit
+git checkout <commithash>
+
+449A-return back to last commit 
+git checkout <branchname>
+note:you have to know which branch you were on before checking out the old commit
+
+449B-see all branches you have
+git branch
+
+
 
 disk
 ----
@@ -1023,6 +1042,9 @@ Check man pages man lvscan and man lvremove for details.
 
 C++
 ----
+/usr/include/c++/5/functional
+/usr/include/c++/5/bits/stl_function.h:    struct greater : public binary_function<_Tp, _Tp, bool>
+
 
 #ifdef ver_1
 void * operator new(size_t size)
