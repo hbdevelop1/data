@@ -419,6 +419,20 @@ undo the last commit , not pushed
 >git commit -C ORIG_HEAD ; to commit with the same message as the commit redone
 >git commit -c ORIG_HEAD ; to commit with the new message; vi opens up
 
+448A-I committed, but then wanted to change the comment.
+the way to change the comment depends on whether it has been pushed or not.
+so i wanted to know if the commit i want to change the comment for was pushed or not. hen the question :List Git commits not pushed to the origin yet
+solution
+the formula is : git log <since>..<until>
+>git log origin/develop..develop will list any commits that haven't been pushed to the origin's develop branch. 
+>git log develop..origin/develop will list any commits that are in origin's develop but haven't been pulled into the local develop yet.
+also:
+>git log origin/develop..HEAD
+-If <until> is supposed to be the current HEAD (the last commit on the checked out branch), then it can simply be omitted. The two dots are still required though: git log origin/master.. (same as git log origin/master..HEAD)
+-This is not the best solution. Origin/master may not always the upstream branch. A better solution is to use @{u} instead of "origin/master" to indicate the upstream branch. Since HEAD is implied by default, one can leave that out too:
+Outgoing changes: >git log @{u}.. 
+Incoming changes: >git log ..@{u}
+@{u} or @{upstream} means the upstream branch of the current branch (see git rev-parse --help or git help revisions for details).
 
 
 449-checkout (set directory to) an old commit
@@ -430,7 +444,6 @@ note:you have to know which branch you were on before checking out the old commi
 
 449B-see all branches you have
 git branch
-
 
 
 disk
