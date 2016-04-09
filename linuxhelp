@@ -1057,6 +1057,8 @@ C++
 ----
 /usr/include/c++/5/functional
 /usr/include/c++/5/bits/stl_function.h:    struct greater : public binary_function<_Tp, _Tp, bool>
+/usr/include/c++/5/bits/stl_tempbuf.h:    get_temporary_buffer(ptrdiff_t __len) _GLIBCXX_NOEXCEPT
+
 
 
 #ifdef ver_1
