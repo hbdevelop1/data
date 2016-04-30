@@ -304,6 +304,10 @@ grep
 find text in all files and subfolders
 grep -r "QtCore" .
 
+find only the word restrict
+grep -r -w restrict .
+
+
 .bashrc/promt/PS1/color
 $ echo -e "${bakblu}test"
 $ echo -e "\\033[48;5;95;38;5;214mhello world\\033[0m"
@@ -1123,3 +1127,15 @@ Google Drive on Ubuntu 14.04? [duplicate]
 sudo add-apt-repository ppa:nilarimogard/webupd8
 sudo apt-get update
 sudo apt-get install grive
+
+
+gdb
+//display assm code
+(gdb) layout split
+//print 12 instructions from current program counter address
+(gdb) x /12i $pc
+//- if your prefer intel notation
+set disassembly-flavor intel 
+
+assembly code command line
+dumpobj -S ./a.out
