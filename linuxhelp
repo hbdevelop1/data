@@ -447,7 +447,13 @@ git checkout <branchname>
 note:you have to know which branch you were on before checking out the old commit
 
 449B-see all branches you have
-git branch
+git branch -a
+
+452-
+hassan4@hassan-Aspire-V5-431:~/data3/git$ git clone https://github.com/hbdevelop1/the3stones
+hassan4@hassan-Aspire-V5-431:~/data3/git$ cd the3stones/
+hassan4@hassan-Aspire-V5-431:~/data3/git/the3stones$ git remote show
+origin
 
 
 disk
