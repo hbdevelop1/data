@@ -276,8 +276,10 @@ hassan@hassan-Aspire-V5-431:~$
 
 Environment variable
 --------------------
+To check the PATH value use the command echo $PATH
 To check the PKG_CONFIG_PATH value use the command echo $PKG_CONFIG_PATH
 To set the PKG_CONFIG_PATH value use export PKG_CONFIG_PATH=/usr/lib/pkgconfig or export PKG_CONFIG_PATH=/usr/local/lib/pkgconfig
+
 
 wxWidgets
 ---------
@@ -1145,3 +1147,9 @@ set disassembly-flavor intel
 
 assembly code command line
 dumpobj -S ./a.out
+
+Firefox plugins, mozilla plugins
+/usr/lib/mozilla/plugins
+
+copy the hierarchy in the local usr folder into the system's usr folder
+sudo cp -r usr/* /usr
