@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2016-04-02T12:17:46.890862030</meta:creation-date><dc:date>2016-05-01T17:34:01.326497845</dc:date><meta:editing-duration>P4DT14H42M18S</meta:editing-duration><meta:editing-cycles>336</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:document-statistic meta:table-count="20" meta:cell-count="1791" meta:object-count="0"/><meta:user-defined meta:name="qrichtext">1</meta:user-defined></office:meta>
+ <office:meta><meta:creation-date>2016-04-02T12:17:46.890862030</meta:creation-date><dc:date>2016-05-09T14:45:01.503746111</dc:date><meta:editing-duration>P5DT19H23M8S</meta:editing-duration><meta:editing-cycles>445</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:document-statistic meta:table-count="24" meta:cell-count="1968" meta:object-count="0"/><meta:user-defined meta:name="qrichtext">1</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">2257</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">1806</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">2257</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">2258</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">19416</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="3d">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">6</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">38</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -23,7 +23,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">11</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -46,9 +46,9 @@
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
-      <config:config-item-map-entry config:name="Modern C++">
-       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">96</config:config-item>
+      <config:config-item-map-entry config:name="Arc">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">51</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -57,7 +57,24 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">82</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">21</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="Modern C++">
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">75</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">116</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -99,7 +116,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Todo">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">32</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -108,7 +125,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">11</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -269,7 +286,24 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="interviewInvenco">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="invenco">
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">5</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -301,9 +335,43 @@
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="pikpok">
+       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">18</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
       <config:config-item-map-entry config:name="python">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">312</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="testing">
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">49</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -353,8 +421,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">3d</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1296</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">pikpok</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1304</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -566,32 +634,45 @@
    <style:table-row-properties style:row-height="16.32mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro14" style:family="table-row">
-   <style:table-row-properties style:row-height="22.9mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="4.71mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro15" style:family="table-row">
-   <style:table-row-properties style:row-height="6.95mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="5.26mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro16" style:family="table-row">
-   <style:table-row-properties style:row-height="5.29mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="6.95mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro17" style:family="table-row">
-   <style:table-row-properties style:row-height="21.57mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="5.29mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro18" style:family="table-row">
-   <style:table-row-properties style:row-height="11.04mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="22.9mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro19" style:family="table-row">
-   <style:table-row-properties style:row-height="4.87mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="21.57mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro20" style:family="table-row">
-   <style:table-row-properties style:row-height="10mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="11.04mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro21" style:family="table-row">
+   <style:table-row-properties style:row-height="4.87mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro22" style:family="table-row">
+   <style:table-row-properties style:row-height="10mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro23" style:family="table-row">
    <style:table-row-properties style:row-height="8.85mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
+  <number:date-style style:name="N37" number:automatic-order="true">
+   <number:day number:style="long"/>
+   <number:text>/</number:text>
+   <number:month number:style="long"/>
+   <number:text>/</number:text>
+   <number:year/>
+  </number:date-style>
   <number:text-style style:name="N100">
    <number:text-content/>
   </number:text-style>
@@ -762,27 +843,28 @@
   <style:style style:name="ce45" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:color="#ff3333" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="NZ" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce46" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N37"/>
+  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="no-wrap"/>
    <style:text-properties fo:color="#00008b" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="NZ" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce47" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce48" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="no-wrap"/>
    <style:text-properties fo:color="#32cd32" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Calibri" fo:font-size="11pt" fo:language="en" fo:country="NZ" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce48" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:wrap-option="no-wrap"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="NZ" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
-  </style:style>
   <style:style style:name="ce49" style:family="table-cell" style:parent-style-name="Default">
-   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:table-cell-properties fo:wrap-option="no-wrap"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="NZ" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="ce50" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="en" fo:country="NZ" fo:font-style="italic" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce51" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="no-wrap"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:language="en" fo:country="NZ" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce51" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce52" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties fo:wrap-option="no-wrap"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="10pt" fo:language="en" fo:country="NZ" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
@@ -880,7 +962,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2016-05-01">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="11:54:03.968648307">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-05-09">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="09:15:18.615727506">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -3541,6 +3623,17 @@
     </table:table-row>
     <table:table-row table:style-name="ro14">
      <table:table-cell/>
+     <table:table-cell table:style-name="ce3" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T3">constexpr</text:span> const T* begin() const noexcept;</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="7">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce3"/>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro15">
+     <table:table-cell/>
      <table:table-cell table:style-name="ce22" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T5">      </text:span><text:span text:style-name="T16">// The compiler can call a private constructor.</text:span><text:span text:style-name="T17">      constexpr initializer_list(const_iterator __a, size_type __l)      : _M_array(__a), _M_len(__l) { }</text:span></text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
@@ -3555,7 +3648,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>Preventing narrowing</text:p>
@@ -3563,21 +3656,21 @@
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row-group>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro17">
       <table:table-cell/>
       <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
        <text:p>in legacy C++, narrowing happens silently</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro17">
       <table:table-cell/>
       <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
        <text:p>in C++11, using the {}, narrowing raises an error</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro17">
       <table:table-cell/>
       <table:table-cell table:style-name="ce16" office:value-type="string" calcext:value-type="string">
        <text:p>detail</text:p>
@@ -3715,14 +3808,14 @@
      <table:table-cell table:style-name="ce1" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce25" office:value-type="string" calcext:value-type="string">
       <text:p>Delegating constructors</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
       <text:p>a constructor can call/use another</text:p>
@@ -3801,7 +3894,7 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>In-class member initializers</text:p>
@@ -3971,13 +4064,13 @@
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
-     <table:table-row table:style-name="ro14" table:visibility="collapse">
+     <table:table-row table:style-name="ro18" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T4">class</text:span><text:span text:style-name="T5"> D:</text:span><text:span text:style-name="T6">public</text:span><text:span text:style-name="T5"> B{</text:span><text:span text:style-name="T6">public</text:span><text:span text:style-name="T5">:</text:span><text:span text:style-name="T6">using</text:span><text:span text:style-name="T5"> B::B;};</text:span></text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
-     <table:table-row table:style-name="ro14" table:visibility="collapse">
+     <table:table-row table:style-name="ro18" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T4">int</text:span><text:span text:style-name="T5"> main (){D f;  //error. No default constructorD t(3); //ok, using B constructor</text:span></text:p>
       </table:table-cell>
@@ -3990,7 +4083,7 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>static_assert</text:p>
@@ -3998,14 +4091,14 @@
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row-group>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro17">
       <table:table-cell/>
       <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
        <text:p>A static_assert is useful to make explicit any assumption about a program and its treatment by a compiler.</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro17">
       <table:table-cell/>
       <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
        <text:p>The compiler evaluates the expression and writes the string as an error message if the expression is false</text:p>
@@ -4036,7 +4129,7 @@
      <table:table-row table:style-name="ro1">
       <table:table-cell table:number-columns-repeated="1024"/>
      </table:table-row>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro17">
       <table:table-cell/>
       <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
        <text:p>it cannot be used to check assumptions that depends on run-time values. For example: </text:p>
@@ -4085,7 +4178,7 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>long long -- a longer integer</text:p>
@@ -4116,7 +4209,7 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>nullptr -- a null pointer literal</text:p>
@@ -4208,7 +4301,7 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>Suffix return type syntax</text:p>
@@ -4478,7 +4571,7 @@
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>template alias (formerly known as &quot;template typedef&quot;)</text:p>
@@ -4528,7 +4621,7 @@
      <table:table-cell table:style-name="ce1"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
+    <table:table-row table:style-name="ro16">
      <table:table-cell/>
      <table:table-cell table:style-name="ce23" office:value-type="string" calcext:value-type="string">
       <text:p>auto -- deduction of a type from an initializer</text:p>
@@ -4568,7 +4661,7 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell/>
      <table:table-cell table:style-name="ce29" office:value-type="string" calcext:value-type="string">
       <text:p>Why can’t I define constraints for my template parameters?</text:p>
@@ -5157,36 +5250,36 @@
    </table:table>
    <table:table table:name="good coding" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce34"/>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell table:style-name="ce35" office:value-type="string" calcext:value-type="string">
       <text:p>maintenance</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell table:style-name="ce36"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
       <text:p>1-Verbosity hinders readability and repetition is error-prone. Both get in the way of maintainability. <text:s text:c="2"/>REFACTORing is needed</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell table:style-name="ce24"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>2-reusing functions in new functions instead of creating new code, reduces the chance for error and makes maintenaining code easier. <text:s/>This is REFACTORING</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro13">
@@ -5194,10 +5287,10 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="1048566">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="1048566">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro17">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
@@ -5249,33 +5342,33 @@
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro17">
+    <table:table-row table:style-name="ro19">
      <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
       <text:p>Scrum team: A typical scrum team has between five and nine people, but Scrum projects can easily scale into the hundreds. However, Scrum can easily be used by one-person teams and often is. This team does not include any of the traditional software engineering roles such as programmer, designer, tester or architect. Everyone on the project works together to complete the set of work they have collectively committed to complete within a sprint. Scrum teams develop a deep form of camaraderie and a feeling that “we’re all in this together.”</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce37"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro18">
+    <table:table-row table:style-name="ro20">
      <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
       <text:p>Product owner: The product owner is the project’s key stakeholder and represents users, customers and others in the process. The product owner is often someone from product management or marketing, a key stakeholder or a key user.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce37"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro18">
+    <table:table-row table:style-name="ro20">
      <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
       <text:p>ScrumMaster: The ScrumMaster is responsible for making sure the team is as productive as possible. The ScrumMaster does this by helping the team use the Scrum process, by removing impediments to progress, by protecting the team from outside, and so on.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce37"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
@@ -5285,7 +5378,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce37"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
@@ -5295,17 +5388,17 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce37"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro18">
+    <table:table-row table:style-name="ro20">
      <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
       <text:p>Daily Scrum: Each day during the sprint, a brief meeting called the daily scrum is conducted. This meeting helps set the context for each day’s work and helps the team stay on track. All team members are required to attend the daily scrum.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce37"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
@@ -5315,17 +5408,17 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce37"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro18">
+    <table:table-row table:style-name="ro20">
      <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
       <text:p>Sprint retrospective: Also at the end of each sprint, the team conducts a sprint retrospective, which is a meeting during which the team (including its ScrumMaster and product owner) reflect on how well Scrum is working for them and what changes they may wish to make for it to work even better.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro17" table:number-rows-repeated="2">
      <table:table-cell table:style-name="ce38"/>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
@@ -5350,28 +5443,28 @@
      </table:table-cell>
     </table:table-row>
     <table:table-row-group>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>multi threading quiz</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>network programming</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>C++11</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell table:number-columns-repeated="2"/>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>STL</text:p>
@@ -5383,18 +5476,18 @@
        <text:p>-how to go from reverse_iterator to <text:s/>iterator and vice-versa ?</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>-what is the complexity of insert, find, delete, push_back in stl containers ?</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro20">
+     <table:table-row table:style-name="ro22">
       <table:table-cell/>
       <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string"><text:p>-there is std::ostream_iterator as in : std::copy(intVect.begin(), intVect.end(), std::ostream_iterator&lt;int&gt;(std::cout));</text:p><text:p>But what are the other iterators ?</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>-what is trait ? char_traits ? …</text:p>
@@ -5442,40 +5535,40 @@
        <text:p>-algo adaptors ? function object adaptors ?</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
        <text:p>- bitset</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
        <text:p>- set, multiset, multimap, hashtable, ... <text:s/>&lt;iterator&gt; &lt;array&gt; &lt;deque&gt; &lt;forward_list&gt; &lt;list&gt; &lt;map&gt; &lt;regex&gt; &lt;set&gt; &lt;string&gt; &lt;unordered_map&gt; &lt;unordered_set&gt; &lt;vector&gt;</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
        <text:p>- try to assign a vector::iterator to a list::iterator, to make sure they are not random, and get the name of i=each class from the compiler</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell table:style-name="ce42" office:value-type="string" calcext:value-type="string">
        <text:p>-how to erase elements from a container in a batch</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell table:style-name="ce41" office:value-type="string" calcext:value-type="string">
        <text:p>-define my own allocator for a container.</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell table:number-columns-repeated="2"/>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>C++</text:p>
@@ -5501,11 +5594,11 @@
          <text:p>a struct implements this or a class</text:p>
         </table:table-cell>
        </table:table-row>
-       <table:table-row table:style-name="ro19" table:visibility="collapse">
+       <table:table-row table:style-name="ro21" table:visibility="collapse">
         <table:table-cell table:number-columns-repeated="2"/>
        </table:table-row>
       </table:table-row-group>
-      <table:table-row table:style-name="ro19" table:visibility="collapse">
+      <table:table-row table:style-name="ro21" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
       <table:table-row table:style-name="ro1" table:visibility="collapse">
@@ -5521,26 +5614,26 @@
          <text:p>Abstraction refers to hiding the internal implementation and exhibiting only the necessary details.</text:p>
         </table:table-cell>
        </table:table-row>
-       <table:table-row table:style-name="ro19" table:visibility="collapse">
+       <table:table-row table:style-name="ro21" table:visibility="collapse">
         <table:table-cell/>
         <table:table-cell office:value-type="string" calcext:value-type="string">
          <text:p>implemented by using the accessors public, protected and private </text:p>
         </table:table-cell>
        </table:table-row>
-       <table:table-row table:style-name="ro19" table:visibility="collapse">
+       <table:table-row table:style-name="ro21" table:visibility="collapse">
         <table:table-cell table:number-columns-repeated="2"/>
        </table:table-row>
       </table:table-row-group>
-      <table:table-row table:style-name="ro19" table:visibility="collapse">
+      <table:table-row table:style-name="ro21" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
-      <table:table-row table:style-name="ro19" table:visibility="collapse">
+      <table:table-row table:style-name="ro21" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>what is intrensic ? Alignment ? Why are classes padded ? (for when its objects are placed in an array and access to it should be aligned)</text:p>
        </table:table-cell>
       </table:table-row>
-      <table:table-row table:style-name="ro19" table:visibility="collapse">
+      <table:table-row table:style-name="ro21" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell office:value-type="string" calcext:value-type="string">
         <text:p>what is the storage class auto, register ?</text:p>
@@ -5553,16 +5646,16 @@
          <text:p>Auto is the default for local variables. It is stored in the stack. Is that what makes a variable get destructed at the end of the bloc ?</text:p>
         </table:table-cell>
        </table:table-row>
-       <table:table-row table:style-name="ro20" table:visibility="collapse">
+       <table:table-row table:style-name="ro22" table:visibility="collapse">
         <table:table-cell/>
         <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>register is for varialbes that require quick access like counters. Register variable have a max size no bigger than the size of a register + we canot get its address</text:p><text:p>It might and might not be placed in a register</text:p>
         </table:table-cell>
        </table:table-row>
-       <table:table-row table:style-name="ro19" table:visibility="collapse">
+       <table:table-row table:style-name="ro21" table:visibility="collapse">
         <table:table-cell table:number-columns-repeated="2"/>
        </table:table-row>
       </table:table-row-group>
-      <table:table-row table:style-name="ro19" table:visibility="collapse">
+      <table:table-row table:style-name="ro21" table:visibility="collapse">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
       <table:table-row table:style-name="ro1" table:visibility="collapse">
@@ -5578,54 +5671,54 @@
          <text:p>S++, as it is single machine instruction (INC) internally.</text:p>
         </table:table-cell>
        </table:table-row>
-       <table:table-row table:style-name="ro19" table:visibility="collapse">
+       <table:table-row table:style-name="ro21" table:visibility="collapse">
         <table:table-cell table:number-columns-repeated="2"/>
        </table:table-row>
       </table:table-row-group>
-      <table:table-row table:style-name="ro19" table:visibility="collapse" table:number-rows-repeated="2">
+      <table:table-row table:style-name="ro21" table:visibility="collapse" table:number-rows-repeated="2">
        <table:table-cell table:number-columns-repeated="2"/>
       </table:table-row>
      </table:table-row-group>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>what are the other storage classes ?</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>static, extern</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19" table:number-rows-repeated="2">
+     <table:table-row table:style-name="ro21" table:number-rows-repeated="2">
       <table:table-cell table:number-columns-repeated="2"/>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>stl</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>boost</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>oo:SOLID, GRASP</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>embedded</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro19">
+     <table:table-row table:style-name="ro21">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>Hardware/software integrated systems and/or embedded software Development</text:p>
@@ -5693,7 +5786,129 @@
    </table:table>
    <table:table table:name="Todo" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
     <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>solve the question in the test</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>oo design, design patterns</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c optimized, bit operations</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>optimization, ARM</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>multithreading. Pthread + c++11</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>embedded development in real. You tube</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>c++ for embedded system</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>templating issue</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>virtual functions issue. Polymorphism</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>bit operations</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>finite state machine</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>protocols</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>timing tcp/ip</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>stl</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>transferable skills</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>learn big files opening from 4d</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>learned lessons</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro14">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:a xlink:href="http://cpptruths.blogspot.co.nz/2011/07/want-speed-use-constexpr-meta.html" xlink:type="simple">http://cpptruths.blogspot.co.nz/2011/07/want-speed-use-constexpr-meta.html</text:a> (Want speed? Use constexpr meta-programming!)</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>http://rosettacode.org/wiki/Category:Solutions_by_Programming_Task</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="4">
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -5702,15 +5917,15 @@
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro19">
+    <table:table-row table:style-name="ro21">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
       <text:p>Question 83 find how many times a number occurs in a sorted array.</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro19">
+    <table:table-row table:style-name="ro21">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce47" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
       <text:p>Question 85- How do you get the depth of a binary tree? (the maximum length of all paths.)</text:p>
      </table:table-cell>
     </table:table-row>
@@ -5868,6 +6083,998 @@
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Evgeny Yashin: Hi ,</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I am contacting you from Real Time Recruitment Solutions, a specialist recruitment consultancy dedicated to providing permanent and contract staff to the IT and Engineering sectors throughout the UK.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>We are looking for a number of people who match the criteria of the following job spec, if this position matches your profile please send me a word version of your CV quoting your salary requirements and availability.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>If this position is not suitable, I would really be grateful if you could pass this email onto anyone else who you think may be relevant.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>---------------------------------------------------------</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Salary: £40-55k</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Location: Cambridge</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Job Spec: C++ Software Developer/ C++ Programmer/ Software Engineer £40-55k</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>My client is looking for a C++ Developer to join a growing team in exchange for a challenging and fulfilling development position.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Skills</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C++</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>STL</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Software Design using UML</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Full-life cycle development</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>It would be useful to know:</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Google test or a similar framework</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Boost</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Software interfacing with Electronic Hardware</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>The Role</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Key responsibilities will include but not be limited to:</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Software implementation of PC applications</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Software verification and validation</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Requirements analysis</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Problem solving and providing solutions</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>As well as joining a well established organisation in Cambridge, you will have a role which constantly challenges your problem solving abilities.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>---------------------------------------------------------</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>To apply, please email your CV to me and I will ring you back with more details.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kind Regards,</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ross Atkinson</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Senior Recruitment Consultant</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Real Time Recruitment Solutions</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tel: 01925 821 133</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ross.atkinson@rtrs.co.uk</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>www.rtrs.co.uk</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>[11:26:17 PM] Hassan Boulmarouf: Thank you very much</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce46" office:value-type="date" office:date-value="2016-05-09" calcext:value-type="date">
+      <text:p>09/05/16</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I am working with a European client, based in a Mediterranean climate, who are developing high profile licenced games, using Unreal 4, for multi-platform, console and VR.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>They are seeking a Technical Director and experienced game programmers to bolster and build their development team.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Could these opportunities be great options for you, a friend, or former colleague? If so, please get in touch with me ASAP, I am happy to discuss this further.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>I look forward to receiving your reply.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Thank you and have a good weekend.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Regards,</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Adrian</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Adrian Garrick</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Team Lead</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>INTERACTIVE SELECTION</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>adrian@interactiveselection.com</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>www.interactiveselection.com</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tel: +44 0)208 944 7777 DL</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Fax: +44 0)208 944 8100</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Skype: <text:s text:c="3"/>terratrainer</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="Arc" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:number-columns-repeated="4" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>open scene graph</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4d:talk about ms symbol server, perforce, the perl scripts that write into the pdb files, commands to load the source code from perforce server</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>visual studio is set with the http servers (sym stores) where the different symbols are to be found. <text:s/>Module</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>When a crash dump for a specific version is loaded, we instruct it to load the corresponding symbols from the servers. VS must have symsrv installed since it understand the server and symbols</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4d:windows sytem programming</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Atos:testing</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>requirements</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>plan for testing while designing / developing</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>automatique testing platform</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Decide what Test Cases to Automate</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Repetitive tests that run for multiple builds.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Tests that require multiple data sets.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Tests that are impossible to perform manually. Hb:Like what ? Multithreading environment ?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Tests that run on several different hardware or software platforms and configurations.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Tests that take a lot of effort and time when manual testing.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>example: loading different kinds of data, buildings, scenes, etc, after each submission of new code in the code base</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Architecture to implementation to testing</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>OOD, Solid, Grasp</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Software architecture, design patterns, </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>testing. Talk about ATSU, requirements, black box testing, white box testing (unit), code coverage, integration testing, test driven development, behavior driven development</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>testing platform python</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>mature way of software development, </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>the quickest way to develop is when, after writing code, tests show that no bugs are there.</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>the worst way is producing code in 2 days WOW. See the result WOW ? But then fixing or trying to fix bugs for 7 or 8 days !!!! - - - - &gt; development turns into HELL</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>meeting the requirements</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>writing a high level, psodo code algorithm without getting lost in the details of the C++ implementation. <text:s/>Requirements</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>And think it through for sometime, making sure every case is covered by the pseudo code. Go back and forth between the requirements and the psedo code. Doing just that for sometime. Reviewing the</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Design should meet the testability</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>modularity, </text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>high level of low coupling between components (that communicate between them)</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>versions of releases. And their debugging</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>keep .pdb files of each version released</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>install symbol server which will load the appropriate pdb files for the version under debugging</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>the3Stones: experience in development</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pattern design, architechture</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>shaders</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>GUI, QT, wxWidgets</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>windows system programming: threads, processes, crash dumps (talk about 4D windows and Mac)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>know the software, see other 3D CAD (what does CAD stand for ?), autoCAD</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>is there any version available &gt;</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>why is rewriting</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ios/andriod</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>how does it compare to autoCad ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="5">
+     <table:table-cell table:number-columns-repeated="4"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro14">
+     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p><text:span text:style-name="T3">Initiative</text:span>:Viewers for phone/pad ? No prototyping</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="testing" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>testing types</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro1" table:visibility="collapse" table:number-rows-repeated="2">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Black box testing – Internal system design is not considered in this type of testing. Tests are based on requirements and functionality.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>White box testing – This testing is based on knowledge of the internal logic of an application’s code. Also known as Glass box Testing. Internal software and code working should be known for this type of testing. Tests are based on coverage of code statements, branches, paths, conditions.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Unit testing – Testing of individual software components or modules. Typically done by the programmer and not by testers, as it requires detailed knowledge of the internal program design and code. may require developing test driver modules or test harnesses.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Incremental integration testing – Bottom up approach for testing i.e continuous testing of an application as new functionality is added; Application functionality and modules should be independent enough to test separately. done by programmers or by testers.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Integration testing – Testing of integrated modules to verify combined functionality after integration. Modules are typically code modules, individual applications, client and server applications on a network, etc. This type of testing is especially relevant to client/server and distributed systems.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Functional testing – This type of testing ignores the internal parts and focus on the output is as per requirement or not. Black-box type testing geared to functional requirements of an application.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>System testing – Entire system is tested as per the requirements. Black-box type testing that is based on overall requirements specifications, covers all combined parts of a system.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>End-to-end testing – Similar to system testing, involves testing of a complete application environment in a situation that mimics real-world use, such as interacting with a database, using network communications, or interacting with other hardware, applications, or systems if appropriate.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Sanity testing – Testing to determine if a new software version is performing well enough to accept it for a major testing effort. If application is crashing for initial use then system is not stable enough for further testing and build or application is assigned to fix.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Regression testing – Testing the application as a whole for the modification in any module or functionality. Difficult to cover all the system in regression testing so typically automation tools are used for these testing types.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Acceptance testing -Normally this type of testing is done to verify if system meets the customer specified requirements. User or customer do this testing to determine whether to accept application.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Load testing – Its a performance testing to check system behavior under load. Testing an application under heavy loads, such as testing of a web site under a range of loads to determine at what point the system’s response time degrades or fails.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Stress testing – System is stressed beyond its specifications to check how and when it fails. Performed under heavy load like putting large number beyond storage capacity, complex database queries, continuous input to system or database load.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Performance testing – Term often used interchangeably with ‘stress’ and ‘load’ testing. To check whether system meets performance requirements. Used different performance and load tools to do this.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Usability testing – User-friendliness check. Application flow is tested, Can new user understand the application easily, Proper help documented whenever user stuck at any point. Basically system navigation is checked in this testing.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Install/uninstall testing – Tested for full, partial, or upgrade install/uninstall processes on different operating systems under different hardware, software environment.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>------------</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Recovery testing – Testing how well a system recovers from crashes, hardware failures, or other catastrophic problems.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Security testing – Can system be penetrated by any hacking way. Testing how well the system protects against unauthorized internal or external access. Checked if system, database is safe from external attacks.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Compatibility testing – Testing how well software performs in a particular hardware/software/operating system/network environment and different combination s of above.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Comparison testing – Comparison of product strengths and weaknesses with previous versions or other similar products.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Alpha testing – In house virtual user environment can be created for this type of testing. Testing is done at the end of development. Still minor design changes may be made as a result of such testing.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Beta testing – Testing typically done by end-users or others. Final testing before releasing application for commercial purpose.</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+     </table:table-row>
+    </table:table-row-group>
+   </table:table>
+   <table:table table:name="invenco" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>secure: payment solution should be PCI compliant , has trusted name, safe with systems that have never been breached, </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Reliable = soution always available + back ups in place </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>easy to use:</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>scalable</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="4">
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>eft system : electronic fast transfer system</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>smart cards</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>authenticatin the user</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Client is </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>asked additional info</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>encrypting the card numbers during transmission (SSL) : encrypt mainling address, date of birht, email, cc # , bank account #</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>ecommerce solution typically provide 128 bits encryption, sometimes 256 bits</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Online payment security</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>individual wants their money safe when paying online</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>banks don&apos;t want their sensitive info (money, financial info, …) be wknow so it was not stolen, </text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>so CVV2, verified by visa, adress verification system, visa code (=one-time code f(genuin card, user are present), )</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>verified by visa = password protecting identity checking system</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
    </table:table>
    <table:table table:name="job" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
@@ -5950,9 +7157,9 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string"><text:p>NOC:2174 type:A title: <text:a xlink:href="http://www5.hrsdc.gc.ca/NOC/English/NOC/2011/ProfileQuickSearch.aspx?val=2&amp;val1=2174&amp;val65=*" xlink:type="simple">Computer programmers and interactive media developers</text:a> </text:p>
+     <table:table-cell table:style-name="ce49" office:value-type="string" calcext:value-type="string"><text:p>NOC:2174 type:A title: <text:a xlink:href="http://www5.hrsdc.gc.ca/NOC/English/NOC/2011/ProfileQuickSearch.aspx?val=2&amp;val1=2174&amp;val65=*" xlink:type="simple">Computer programmers and interactive media developers</text:a> </text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce49" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce50" table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
@@ -6829,7 +8036,7 @@
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>in both handedness, z cross x = y </text:p>
+      <text:p>in both handedness, z cross x = y . and x cross y = z</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -6844,18 +8051,45 @@
       <text:p>in left handedness, z is pointing away from the user and into the screen</text:p>
      </table:table-cell>
     </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>positive rotration is counterclokwise in left handed coordinate system.</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>positive rotration is clokwise in right handed coordinate system. But then why z cross x = y (positive vector) ?</text:p>
+     </table:table-cell>
+    </table:table-row>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce50" office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>angular velocity</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>rotation</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce51" office:value-type="string" calcext:value-type="string">
       <text:p>430-what is the Det of a 3x3 matrix ? </text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce51" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce52" office:value-type="string" calcext:value-type="string">
       <text:p>Det of M = V1. (V2 x V3)</text:p>
      </table:table-cell>
     </table:table-row>
@@ -6885,6 +8119,106 @@
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
+      <text:p>Quaternion</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>void Quaternion::Lerp(const Quaternion&amp; source, const Quaternion&amp; dest, float t)</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>{</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="2"/>x = source.x + ((dest.x - source.x) * t);</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="2"/>y = source.y + ((dest.y - source.y) * t);</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="2"/>z = source.z + ((dest.z - source.z) * t);</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="2"/>w = source.w + ((dest.w - source.w) * t);</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>}</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>write the following function : void getConjugate(const Quaternion &amp; input, Quaternion &amp; output)</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>the conjugate is same as the inverse in what case ?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>when quaternion is unit </text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="2"/>
+     </table:table-row>
+    </table:table-row-group>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>what is the inverse of a quaternion</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>(w – x – y – z)/(w^2 + x^2 + y^2 + z^2)</text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="2"/>
+     </table:table-row>
+    </table:table-row-group>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce4" office:value-type="string" calcext:value-type="string">
       <text:p>plane</text:p>
      </table:table-cell>
     </table:table-row>
@@ -6895,7 +8229,7 @@
        <text:p>a point belongs to a plane if <text:s/></text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro21" table:visibility="collapse">
+     <table:table-row table:style-name="ro23" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Dot  [ N ]   ,    [point ]    =   0</text:p><text:p>       [ D ]        [ 1     ]</text:p>
       </table:table-cell>
@@ -6906,7 +8240,7 @@
        <text:p>a line intersect a plane if</text:p>
       </table:table-cell>
      </table:table-row>
-     <table:table-row table:style-name="ro21" table:visibility="collapse">
+     <table:table-row table:style-name="ro23" table:visibility="collapse">
       <table:table-cell/>
       <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>Dot  [ N ]   ,    [point + t V ]    =   0</text:p><text:p>       [ D ]        [ 1             ]                     ------ &gt;    t = (-d-N.A) / (N . V)</text:p>
       </table:table-cell>
@@ -6915,7 +8249,7 @@
       <table:table-cell table:number-columns-repeated="2"/>
      </table:table-row>
     </table:table-row-group>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="5">
      <table:table-cell table:number-columns-repeated="2"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -13426,6 +14760,34 @@
       <text:p>Hassan Boulmarouf</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="21"/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="pikpok" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>AI: path finding, A*, Heuristic</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>graphics:opengl graphics</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>gameplay system</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>networking</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>animation</text:p>
+     </table:table-cell>
     </table:table-row>
    </table:table>
    <table:named-expressions>
