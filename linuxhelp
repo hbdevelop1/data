@@ -662,6 +662,15 @@ sudo service network-manager stop
 sudo rm /var/lib/NetworkManager/NetworkManager.state
 sudo service network-manager start
 
+display the network notification icon on the task bar:
+sudo nm-applet
+
+explore all wireless networks available:
+sudo iw dev wlan0 scan|grep SSID
+
+get the list of wireless networks:
+sudo iwlist scan
+
 sudo apt-get install indicator-applet indicator-network 
 
 To get the other indicators, run:
@@ -1057,7 +1066,7 @@ in vcxproj
 <OutDir>$(SolutionDir)EXE\</OutDir>	
 <PostBuildEvent><Command>copy libs\glut\glut32.dll EXE</Command></PostBuildEvent>	
 		
-
+w
 http://askubuntu.com/questions/217571/cant-format-delete-locked-partition-from-gparted
 If it's an LVM partition, you will need to deactivate it using the command lvremove which will remove the lock.
 Only then can you delete the partition using gparted.
