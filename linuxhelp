@@ -12,6 +12,14 @@ how to boot with the usb stick ?
 how to partition the mounted disk ?
 co
 
+51-
+disk usage
+52-
+install win8
+53-
+email for viruses
+
+
 
 Some third party entries in your sources.list were disabled. You can re-enable them after the upgrade with the 'software-properties' tool or your package manager.
 
@@ -56,9 +64,19 @@ autologin-user=USERNAME
 hassan@hassan-Aspire-V5-431:~$ lsb_release -a
 No LSB modules are available.
 Distributor ID:	Ubuntu
+Description:	Ubuntu 15.10
+Release:	15.10
+Codename:	wily
+
+my current kernel is linux-image-4.2.0-25-generic
+
+
+No LSB modules are available.
+Distributor ID:	Ubuntu
 Description:	Ubuntu 15.04
 Release:	15.04
 Codename:	vivid
+
 ---
 No LSB modules are available.
 Distributor ID:	Ubuntu
@@ -66,14 +84,14 @@ Description:	Ubuntu 14.04.2 LTS
 Release:	14.04
 Codename:	trusty
 
-51-
-disk usage
-52-
-install win8
-53-
-email for viruses
+-----
+kernel
+1- System/Administration/Ubuntu software center/Edit/Ubuntu Software and check "Source code"
+2 - sudo apt-get update
+3- apt-get source linux-image-$(uname -r)
 
-
+sources are downloaded and installed
+my current kernel is linux-image-4.2.0-25-generic
 
 virtualbox
 install it
@@ -347,6 +365,21 @@ Branch master set up to track remote branch master from origin.
 >git config --global credential.helper 'cache --timeout=3600'
 to make github not to ask for username and password for each push. it will remember this info for 1 hour
 
+
+121:
+CONFIG setting
+git config --global user.name "hbdevelop1" # Set your name
+git config --global user.email "hbdevelop1@gmail.com" # Set an email
+
+CONFIG checking
+git config --global user.email
+# hbdevelop1@gmail.com
+git config --global user.name # Verify
+# hbdevelop1
+
+
+
+123
 create branch
 >git checkout -b new_feature_branch
 switch back to master
