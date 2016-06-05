@@ -93,6 +93,20 @@ kernel
 sources are downloaded and installed
 my current kernel is linux-image-4.2.0-25-generic
 
+--------
+Date and time
+force the system to correct the date and time:
+sudo service ntp stop
+sudo ntpd -gq
+sudo service ntp start
+
+The -gq tells the ntp daemon to correct the time regardless of the offset (g) and exit immediately (q).
+
+
+
+
+
+
 virtualbox
 install it
 create system in it
