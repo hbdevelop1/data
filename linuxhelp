@@ -1,4 +1,4 @@
-﻿TODO
+TODO
 save gl data 
 save audiomine
 save visa
@@ -102,8 +102,15 @@ sudo service ntp start
 
 The -gq tells the ntp daemon to correct the time regardless of the offset (g) and exit immediately (q).
 
+prompt
+-----------
+.bashrc/prompt/PS1/color
+$ echo -e "${bakblu}test"
+$ echo -e "\\033[48;5;95;38;5;214mhello world\\033[0m"
 
-
+edit .bashrc
+#hb adding return to line
+PS1="$PS1\n"
 
 
 
@@ -341,10 +348,6 @@ grep -r "QtCore" .
 find only the word restrict
 grep -r -w restrict .
 
-
-.bashrc/promt/PS1/color
-$ echo -e "${bakblu}test"
-$ echo -e "\\033[48;5;95;38;5;214mhello world\\033[0m"
 
 
 git
@@ -723,7 +726,16 @@ sudo apt-get install indicator-applet indicator-network
 To get the other indicators, run:
 sudo apt-get install indicator-sound-gtk2 indicator-application-gtk2 indicator-datetime-gtk2 indicator-session-gtk2 indicator-messages-gtk2
 
+which interface is currently used for internet?
+---------------------
+>ifconfig
+the if will have lines like:
+inet addr:192.168.176.105 
+RX bytes:11046792 (11.0 MB)
 
+needed to connect virtual box to internet
+
+need to set up the computer wifi interface to Obtain an IP address automatically. HOW ? in /etc/network/interfaces ?
 
 
 MONO
