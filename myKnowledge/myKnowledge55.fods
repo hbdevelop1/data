@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2016-04-02T12:17:46.890862030</meta:creation-date><dc:date>2016-06-13T12:16:43.687731532</dc:date><meta:editing-duration>P7DT16H51M51S</meta:editing-duration><meta:editing-cycles>869</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:document-statistic meta:table-count="31" meta:cell-count="2897" meta:object-count="8"/><meta:user-defined meta:name="qrichtext">1</meta:user-defined></office:meta>
+ <office:meta><meta:creation-date>2016-04-02T12:17:46.890862030</meta:creation-date><dc:date>2016-06-13T15:36:39.320027293</dc:date><meta:editing-duration>P7DT18H30M43S</meta:editing-duration><meta:editing-cycles>903</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:document-statistic meta:table-count="31" meta:cell-count="3015" meta:object-count="8"/><meta:user-defined meta:name="qrichtext">1</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">6773</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">14626</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">2257</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">175734</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -302,8 +302,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="good coding">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">23</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -312,7 +312,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">2</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -615,7 +615,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ggH+/0Jyb3RoZXJfTUZDXzI5MEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpCcm90aGVyX01GQ18yOTBDAAAAAAAAAAAAAAAWAAMAqAAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9QnJvdGhlcl9NRkNfMjkwQwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">nwH+/0Jyb3RoZXJfTUZDXzI5MEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpCcm90aGVyX01GQ18yOTBDAAAAAAAAAAAAAAAWAAMAxQAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9QnJvdGhlcl9NRkNfMjkwQwpvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -1193,7 +1193,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2016-06-13">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="10:18:06.111112552">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-06-13">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="15:34:22.489185921">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -8638,25 +8638,24 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>readability</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>this eases maintenance</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>if performance issues, profile</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro16">
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>Readability : this eases maintenance. Sometimes it goes agains performance, in this case profile</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>testability: ensures production of correct code</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="1024"/>
+     </table:table-row>
+    </table:table-row-group>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro16">
@@ -8704,7 +8703,7 @@
       <table:table-cell table:number-columns-repeated="1024"/>
      </table:table-row>
     </table:table-row-group>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro16">
@@ -8742,7 +8741,7 @@
       <table:table-cell table:number-columns-repeated="1024"/>
      </table:table-row>
     </table:table-row-group>
-    <table:table-row table:style-name="ro16">
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro16">
@@ -8751,20 +8750,30 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row-group>
-     <table:table-row table:style-name="ro16">
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:style-name="Default"/>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>refactoring, reusing code sections</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1023"/>
      </table:table-row>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>why should it be fixed ? Why Is it worth fixing ? Need to support a new requirement ? Does it have bugs ?</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
       <table:table-cell office:value-type="string" calcext:value-type="string">
        <text:p>boost management in IAA: I knew the code and the requirements. I redesigned the feature to meet all the requirements.</text:p>
       </table:table-cell>
       <table:table-cell table:number-columns-repeated="1023"/>
      </table:table-row>
-     <table:table-row table:style-name="ro16">
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
       <table:table-cell table:number-columns-repeated="1024"/>
      </table:table-row>
     </table:table-row-group>
@@ -8777,34 +8786,39 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell table:style-name="ce48"/>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
-      <text:p>1-Verbosity hinders readability and repetition is error-prone. Both get in the way of maintainability. <text:s text:c="2"/>REFACTORing is needed</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell table:style-name="ce26"/>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>2-reusing functions in new functions instead of creating new code, reduces the chance for error and makes maintenaining code easier. <text:s/>This is REFACTORING</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell table:number-columns-repeated="1024"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro18">
-     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string"><text:p>3-The fact that hash_algorithm and s each has a single default is lost in the mess of code and could easily become a problem during maintenance. </text:p><text:p>Instead, we can factor out the initialization of the data members.</text:p><text:p>Conclusion: a lot of text is a mess. It need refactoring. Well refactored code eases maintenance</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1023"/>
-    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:style-name="ce48"/>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
+       <text:p>1-Verbosity hinders readability and repetition is error-prone. Both get in the way of maintainability. <text:s text:c="2"/>REFACTORing is needed</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:style-name="ce26"/>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>2-reusing functions in new functions instead of creating new code, reduces the chance for error and makes maintenaining code easier. <text:s/>This is REFACTORING</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="1024"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro18" table:visibility="collapse">
+      <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string"><text:p>3-The fact that hash_algorithm and s each has a single default is lost in the mess of code and could easily become a problem during maintenance. </text:p><text:p>Instead, we can factor out the initialization of the data members.</text:p><text:p>Conclusion: a lot of text is a mess. It need refactoring. Well refactored code eases maintenance</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="1024"/>
+     </table:table-row>
+    </table:table-row-group>
     <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
@@ -8837,10 +8851,968 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16" table:number-rows-repeated="1048534">
+    <table:table-row table:style-name="ro16">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>how to estimate the duration of a programming task</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>surpises is what kills the correctness of the application</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>function points ? </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>How is this done in AGILE</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>0-should be realistic</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>1-allow for contingencies -&gt; more time</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="4"/>new api ? newbie ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="4"/>don&apos;t plan for everyone to work 100% all the time</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>2-review schedule/progress</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>3-practice</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="4"/>note down initial estimation and on what it was based</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="8"/>the elements</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="8"/>the constraints and the assumptions made</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p><text:s text:c="8"/>the WBS</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>4-monitor performance</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>-planned performance: according to the estimation, how much should I have accomplished now ? (3 days our of 6, so 50% of the work (WBS) should be done by now.)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>Value=the work; cost/budget = time</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>-earned value:according to the estimation, how much much the cost (time) was planned to do the value (work ) we have now ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>the current work was planned to be be done in 2 days</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>(Earned Value shows how much of the budget and time should have been spent, considering the amount of work done so far.)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>-what is the actual duration: 3 days</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>variance ? why ?</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>variance calculation</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>duration variance = time planned to accomplish the current work - the time used to accomplish the current work</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>duration variance = 2 days to do 20% of the work - 3 days to do 20% of work</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>duration variance = -1 days</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>Index = 2/3</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>Estimate At Completion = intial duration / index ( 10days/2/3 = 10x3/2=15days)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>time needed to add = Variace at completion = intial duration - EAC</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>review it and update it later. review failures and successes.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>review it when estimating the next time</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>-give a range of time.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>possibly with optimistic and pesimistic estimate.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>possibly with a percentage for each end of the range.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>possibly with a confidence level</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>duration variance = time planned to accomplish the current work - the time used to accomplish the current work</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>duration variance = 2 days to do 33% of the work - 3 days to do 33% of work</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>duration variance = -1 days</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>pallned that after 3 days -&gt; 50%</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>in reality, after 3 days -&gt; 33% of work was done</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>the EV at day 3 is 33% of 6 days or 2 days</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>6 *3/2</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>1-breakdown project to</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>known known (did a similar task before)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>known unknown (a new API to use)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>unknown unknown or things overlooked (hardware/sotfware failures, absences, ...)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>1.5-offer to adjust estimates along the project</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>2-take time to estimate</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>3-knock up a prototype</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>4-need experience with the work</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>5-&quot;Never give point estimates&quot;</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="float" office:value="-6" calcext:value-type="float">
+      <text:p>-6</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>A) Manufacture another 11K umbrellas that are the exact same as the 2K you churned out last month. B) Design a new kind of umbrella and build the first one.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>Software development is B, but management is asking for an estimate assuming A.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>7-It takes practice and reviewing failure to get better, just like building code</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>8-giving both an estimate and a confidence level</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>it&apos;s 50/50 that it will take 6-9 months</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>75% chance to be done in 9 months and</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>90% that you will be done in a year.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="float" office:value="-9" calcext:value-type="float">
+      <text:p>-9</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>use the wisdom of crowds. what is people&apos;s estimates and average that.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>10-keep a journal of the estimate/progress</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>track of your estimate, and at the end of every day update this to the most accurate figures you can now provide.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>keeping this up to date gives you a better idea about how things are progressing,</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>and more importantly you&apos;ll get a good feel for why your estimate changes as the work progresses.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce48" office:value-type="string" calcext:value-type="string">
+      <text:p>10-use historical estimations</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="121">
+     <table:table-cell table:style-name="ce48"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>how to estimate the difficulty of a programming task</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>-see the environment the work should be done. New device <text:s/>we don&apos;t know ? Doc issues ?</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>-see the environment the code sould run. Network ? Many inputs from different other applications ?</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>this makes it important to make a robust code, well tested code, that handles exceptions.</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>-then see the requirements. is it going to use the latest technology (google map ?) ? latest technology needs learning and will be surprises, </text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>and may not be available for the specifics of the application</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>-is the task to add a requirement to an existing code. is the code easy ?</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1023"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro16" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="1024"/>
+     </table:table-row>
+    </table:table-row-group>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>produce code quickly</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
+      <text:p>To produce code quickly, a programmer needs to develop very slowly !!! don&apos;t jump into code quickly</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
+      <text:p>This means that days pass by without any line of code written.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
+      <text:p>The programmer needs to go over the requirements/idea and write a pseudo code for each functionality or system.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce26" office:value-type="string" calcext:value-type="string">
+      <text:p>Pseudo code means very high level code, just in English</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce29"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>We can use UML, or other means, to describe a high level view of the software and its workings</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>And refine the UML and the pseudo code little by little until we get to the smallest units or functions that can not be broken down any further.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>This is the phase where we spot:</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- most of the problems in the requirements</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- the corner cases,</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- the resource management problems, delete/new</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- the cases not covered by requirements. This leads to correcting the requirements</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>In this phase also we decide of the architecture and design patterns to use</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>jumping into code quickly</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Adhering to the slow development leads to producing code with very few bugs.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jumping fairly quickly to code, helps see results quickly but then we spend 4 times the coding period just debugging and solving issues.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Programming becomes hell.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>And solving issues generally then happens by patching and we end up we a code we hate, because not flexible, not maintainable, not extensible</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="ce46" office:value-type="string" calcext:value-type="string">
+      <text:p>testability</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>While designing the software we want, testability of each function, module or system should be given a big priority.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>So not only we want something that works, but it should also be testable.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Testing can be done manually at first, and then we have to set up an automatic testing platform, that will run automatic tests on the</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>system under development after each new code committed to the code base.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>The impact of taking testability in account is:</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- The design of low-coupled components</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>- The set up of a testing platform early on in the development life</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="6">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>------- learned lessons</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>gare à la précipitation : j&apos;ai lu les régles de nommage de package et je me suis mis à les vérifier pour les ficiers headers !</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>à partir d&apos;un schéma, essayer d&apos;imaginer le code derrière et la lecture du code en deviendra facile.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>faire le minimum d&apos;éffort à la lecture du code et ménager ses forces à la lecture du code en imaginant préalablement de quoi il aurait l&apos;air en terme d&apos;architecture, de communication, code, variable ...</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>j&apos;ai imaginé qu&apos;il aurait une boucle principale dans laquelle il recevait des trames.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>lire et comprendre les demandes du client. décomposer les. en jalons indépendant et isolé.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>une bonne comprehension du travail demandé, une bonne analyse de ce qui m&apos;attend comme travail ou de ce à quoi s&apos;attend le client permet de séparer les entreprises/phases. </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>et cela soulage et destresse (al hamdou lillah, l&apos;effet de mes efforts au niveau de ma relation avec Le Plus Grand) :</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>-j&apos;avais à faire le manuelle de maintenance ntp, je devais l&apos;écrire, pour cela je devais approfondir ma compréhension des outils de debug. </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>pendant cela, je découvre la nécessité de mener des changements dans mes scripts. </text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>j&apos;étais stréssé de l&apos;énormité de travail à faire rien que pour rédiger le manuel. j&apos;ai compris que en fait je peux séparer le travail comme ce qu&apos;on avais à faire pour les scripts d&apos;installation :</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>période de conception, rédaction de celle ci et à la fin réalisation.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>je peux donc déclarer à mes clients que je suis en période de conception.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>la doc nécessite une étude et des testes préliminaires.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>attitude à prendre lors de reception de tâches</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>faire un travail de lecture et de tentative de traitement horizontal. ne pas prendre une tâche et la traiter avant d&apos;avoir vu tout ce que j&apos;ai. ça me met en confiance.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:style-name="Default"/>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>éval de tâches :</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>à demander à l&apos;équipe : éval des tâches faites, souci avec le code, estimation du reste des tâches</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>idée : finir les opérations simple les premières, soumettons les leur, pour un premier feed back.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1023"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro16" table:number-rows-repeated="1048205">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="4">
+     <table:table-cell table:number-columns-repeated="1024"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
