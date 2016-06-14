@@ -508,6 +508,14 @@ hassan4@hassan-Aspire-V5-431:~/data3/git/the3stones$ git remote show
 origin
 
 
+453-
+show only files in the commit 1 previous the HEAD
+git show --name-only HEAD@{1}
+
+show only files in the commit 4a96a35f939f13988313dcd81e4c5a82c1ec32e3
+git show --name-only 4a96a35f939f13988313dcd81e4c5a82c1ec32e3
+
+
 disk
 ----
 ~$ sudo lshw -C disk
