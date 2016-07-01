@@ -142,7 +142,7 @@ dev opengl download install app
 download nehe linux/lesson5
 >make lesson5
 get error : /usr/bin/ld: cannot find -lXi
->sudo aptitude install libxi-dev
+>sudo apt-get install libxi-dev
 >make lesson5
 get error : /usr/bin/ld: cannot find -lXmu 
 >sudo apt-get install libxmu-dev libxmu-headers
@@ -746,6 +746,13 @@ needed to connect virtual box to internet
 need to set up the computer wifi interface to Obtain an IP address automatically. HOW ? in /etc/network/interfaces ?
 
 
+
+Network
+-----------
+restart eth1
+>sudo ifdown eth1 && sudo ifup eth1
+
+
 MONO
 ----
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
@@ -1213,7 +1220,7 @@ sudo apt-get update
 sudo apt-get install grive
 
 
-gdb
+gdb, ASM
 //display assm code
 (gdb) layout split
 //print 12 instructions from current program counter address
@@ -1221,8 +1228,14 @@ gdb
 //- if your prefer intel notation
 set disassembly-flavor intel 
 
+//always show the next intruction
+set disassemble-next-line on
+
+
 assembly code command line
 dumpobj -S ./a.out
+
+
 
 Firefox plugins, mozilla plugins
 /usr/lib/mozilla/plugins
