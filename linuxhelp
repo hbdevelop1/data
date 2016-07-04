@@ -1,3 +1,7 @@
+https://drive.google.com/folderview?id=0Byi8VR-Y0SH2VjVLcDJKT0swTWc&usp=sharing
+https://drive.google.com/file/d/0Byi8VR-Y0SH2cVJ3bUpESERDQzQ/view?usp=sharing
+https://drive.google.com/file/d/0Byi8VR-Y0SH2anYySHBmQ0NiY2s/view?usp=sharing
+https://drive.google.com/open?id=0Byi8VR-Y0SH2anYySHBmQ0NiY2s
 TODO
 save gl data 
 save audiomine
@@ -112,9 +116,14 @@ edit .bashrc
 #hb adding return to line
 PS1="$PS1\n"
 
+applications
+------------
+document viewer (for pdf) : evince
+ : /usr/lib/libreoffice/program/soffice.bin --calc
 
 
 virtualbox
+----------
 install it
 create system in it
 get an error when click on "Start" button : VirtualBox error: Kernel driver not installed (rc=-1908) ...
@@ -152,12 +161,24 @@ to active the firewall and enable it on system startup, enable UFW: sudo ufw ena
 to block incoming connections by default: sudo ufw default deny
 to check the status of UFW: sudo ufw status
 
+uninstall app/soft
+------------------
+sudo apt-get remove skype skype-bin
+
+Unfortunately there is no .deb installation for Skype under XUbuntu that I know of. The best I found is to install the support of 32Bit environment and then install the standard 32 Bit skype as follows:
+Based on ref: http://askubuntu.com/questions/343047/installing-skype-on-ubuntu-13-04-64-bit
+
+sudo dpkg --add-architecture i386
+sudo add-apt-repository "deb http://archive.canonical.com/ $(lsb_release -sc) partner"
+sudo apt-get update
+sudo apt-get install skype
+
+
 install app/soft
 -----------
 dpkg is the backend to commands like apt-get and aptitude, which in turn are the backend for GUI install apps like the Software Center and Synaptic.
 
 install a .deb : sudo dpkg -i skype-ubuntu-precise_4.3.0.37-1_i386.deb
-
 
 get the version of libgtk :
 dpkg -l libgtk[0-9]*
