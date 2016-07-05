@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2016-04-02T12:17:46.890862030</meta:creation-date><dc:date>2016-07-04T22:25:45.123085275</dc:date><meta:editing-duration>P10DT12H51M30S</meta:editing-duration><meta:editing-cycles>1034</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:table-count="34" meta:cell-count="3260" meta:object-count="8"/><meta:user-defined meta:name="qrichtext">1</meta:user-defined></office:meta>
+ <office:meta><meta:creation-date>2016-04-02T12:17:46.890862030</meta:creation-date><dc:date>2016-07-05T16:27:08.008563360</dc:date><meta:editing-duration>P10DT17H40M2S</meta:editing-duration><meta:editing-cycles>1057</meta:editing-cycles><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><meta:document-statistic meta:table-count="35" meta:cell-count="3287" meta:object-count="8"/><meta:user-defined meta:name="qrichtext">1</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">15804</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">34120</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">9031</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">109491</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -65,7 +65,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Modern C++">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">878</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">595</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -74,7 +74,7 @@
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">856</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">576</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -235,7 +235,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="cubic transport">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">16</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -539,6 +539,23 @@
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="test C++ knowledge">
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">14</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
       <config:config-item-map-entry config:name="testing">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">49</config:config-item>
@@ -591,8 +608,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">cubic transport</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1304</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Modern C++</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1296</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">95</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -666,7 +683,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">gAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMApgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -1255,7 +1272,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2016-07-04">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="22:22:26.340853899">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-07-05">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="11:38:24.687181582">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -6562,20 +6579,20 @@
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:style-name="ce2"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>vector&lt;MemoryPage&gt; vm;</text:p>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>what constructor/assignment operator is used for push_back below ?</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-      <text:p>vm.push_back(MemoryPage(1024)); <text:s/>//temporary object created. So push_back(T &amp;&amp;) is called</text:p>
+      <text:p>vector&lt;MemoryPage&gt; vm;</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
@@ -6586,9 +6603,35 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>move constructor, because the object is rvalue because it is an unnamed value that exists only during the evaluation of an expression.</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1022"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+       <text:p><text:s/>//temporary object created. So push_back(T &amp;&amp;) is called</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1022"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="1024"/>
+     </table:table-row>
+    </table:table-row-group>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce17"/>
+     <table:table-cell table:style-name="ce2"/>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
+      <text:p>given the following lvalue mp. How can you force it as an rvalue, so push_back(T&amp;&amp;) is used ?</text:p>
+     </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -6601,7 +6644,7 @@
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell table:style-name="ce37" office:value-type="string" calcext:value-type="string">
-      <text:p>MemoryPage mp1(1024);//lvalue</text:p>
+      <text:p>MemoryPage mp(1024);//lvalue</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
@@ -6612,25 +6655,27 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-      <text:p>vm.push_back(static_cast&lt;MemoryPage&amp;&amp;&gt;(mp)); <text:s/>//push_back(T &amp;&amp;) is called</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-      <text:p>vm.push_back(std::move(mp));//calls push_back(T&amp;&amp;)</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro1">
-     <table:table-cell/>
-     <table:table-cell table:style-name="ce2"/>
-     <table:table-cell table:number-columns-repeated="1022"/>
-    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+       <text:p>vm.push_back(static_cast&lt;MemoryPage&amp;&amp;&gt;(mp)); <text:s/>//push_back(T &amp;&amp;) is called</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1022"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+       <text:p>vm.push_back(std::move(mp));//calls push_back(T&amp;&amp;)</text:p>
+      </table:table-cell>
+      <table:table-cell table:number-columns-repeated="1022"/>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell table:style-name="ce2"/>
+      <table:table-cell table:number-columns-repeated="1022"/>
+     </table:table-row>
+    </table:table-row-group>
     <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
      <table:table-cell/>
      <table:table-cell table:style-name="ce17"/>
@@ -6908,7 +6953,7 @@
       <table:table-cell table:style-name="ce2"/>
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
-     <table:table-row-group>
+     <table:table-row-group table:display="false">
       <table:table-row table:style-name="ro1" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce2"/>
@@ -6917,11 +6962,18 @@
       <table:table-row table:style-name="ro1" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
-        <text:p>string getName(int e) returns an rvalue. The second print call will use the implementation with the rvalue reference. It this was absent the first version will be used</text:p>
+        <text:p>string getName(int e) returns an rvalue. The second print call will use the implementation with the rvalue reference.</text:p>
        </table:table-cell>
        <table:table-cell table:number-columns-repeated="1022"/>
       </table:table-row>
-      <table:table-row table:style-name="ro1" table:visibility="collapse" table:number-rows-repeated="2">
+      <table:table-row table:style-name="ro1" table:visibility="collapse">
+       <table:table-cell/>
+       <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+        <text:p>if this was absent the first version would be used</text:p>
+       </table:table-cell>
+       <table:table-cell table:number-columns-repeated="1022"/>
+      </table:table-row>
+      <table:table-row table:style-name="ro1" table:visibility="collapse">
        <table:table-cell/>
        <table:table-cell table:style-name="ce2"/>
        <table:table-cell table:number-columns-repeated="1022"/>
@@ -6933,12 +6985,12 @@
       <table:table-cell table:number-columns-repeated="1022"/>
      </table:table-row>
     </table:table-row-group>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="11">
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="6">
      <table:table-cell/>
      <table:table-cell table:style-name="ce2"/>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro1" table:number-rows-repeated="4">
+    <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
@@ -7049,7 +7101,7 @@
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>when move is defined, declared, =default, =delete, copy const/assign are implicitly deleted</text:p>
+      <text:p>when move is defined, declared, =default, =delete, copy const/assign are implicitly deleted. Hb:maybe it is because a class needing to move, should not be copied.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
@@ -8684,6 +8736,167 @@
       <table:table-cell table:number-columns-repeated="1024"/>
      </table:table-row>
     </table:table-row-group>
+   </table:table>
+   <table:table table:name="test C++ knowledge" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>what impact on international movement ?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>just leave now ? Or can it be fixed by a visitor visa ?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>how to immigrate ?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Assess my immigration chances</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>OOD</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>array of base vs array of derived?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>when to an ABC? see C++ref/ABC</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>What happens when default constructor is used to instanciate a derived ? When the derived has one and base doesn&apos;t, and vice versa ? With and without the presence of another constructor </text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>define a base class <text:s/>and derived one. With and without CC</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="12">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>base class with CC. derived class without CC. </text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>What happens when cc the derived class ?</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row-group table:display="false">
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell/>
+      <table:table-cell office:value-type="string" calcext:value-type="string">
+       <text:p>derived uses the generated one, which calls the base one </text:p>
+      </table:table-cell>
+     </table:table-row>
+     <table:table-row table:style-name="ro1" table:visibility="collapse">
+      <table:table-cell table:number-columns-repeated="2"/>
+     </table:table-row>
+    </table:table-row-group>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>shared_ptr</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>cast from a base to a derived holder sp</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>return the value in a shared_ptr</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>set the value of shared_ptr</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>set the shared_ptr to a new object</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>tuple</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>set the tuple</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>set first field</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>get second field</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="2">
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>copy data from array to vector</text:p>
+     </table:table-cell>
+    </table:table-row>
    </table:table>
    <table:table table:name="good coding" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:number-columns-repeated="1024" table:default-cell-style-name="ce45"/>
@@ -12524,6 +12737,11 @@
    <table:table table:name="cubic transport" table:style-name="ta1">
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>template&lt;class T&gt; class A { template&lt;class T1&gt; void f(T1 t);</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1" table:number-rows-repeated="3">
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro1">
